@@ -30,5 +30,10 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 - Lindeblad
 #+end_quote
 
+#+begin_quote
+"Imagine instead journeying through this life without too many shadows, without too many painful memories of times we didn’t act in a dignified way... something beautiful starts to happen when we actively choose to take responsibility for what we say and do. It lightens the load. We do it not just for others, but mostly for ourselves."
+- Lindeblad
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
