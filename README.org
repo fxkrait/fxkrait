@@ -11,11 +11,6 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 #+end_quote
 
 #+begin_quote
-"Trust in Allah, but tie your Camel." - Sunan al-Tirmidhī 2517
-- I May Be Wrong, Björn Natthiko Lindeblad
-#+end_quote
-
-#+begin_quote
 "What the catepillar calls the end of the world, the master calls the butterfly."
 - Never Finished, David Goggins
 #+end_quote
@@ -26,30 +21,31 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 #+end_quote
 
 #+begin_quote
+"Trust in Allah, but tie your Camel." - Sunan al-Tirmidhī 2517
+- I May Be Wrong, Björn Natthiko Lindeblad
+#+end_quote
+
+
+#+begin_quote
 "Everything is at it should be, always... No storm lasts forever... This too shall pass."
-- Lindeblad
 #+end_quote
 
 #+begin_quote
 "Imagine instead journeying through this life without too many shadows, without too many painful memories of times we didn’t act in a dignified way... something beautiful starts to happen when we actively choose to take responsibility for what we say and do. It lightens the load. We do it not just for others, but mostly for ourselves."
-- Lindeblad
 #+end_quote
 
 #+begin_quote
 "He has lived a hard life and one morning he comes out of his tepee and declares: ‘Today is a good day to die.’ That’s how I want death to come. Like a friend. You’re welcome here, Death. You give me perspective and proportion by whispering in my ear: ‘It all ends one day. Make sure you don’t leave any shadows behind.’"
-- Lindeblad
 #+end_quote
 
 #+begin_quote
 "...the thought that hurts the most – I should be different. I should be wiser, more hardworking, richer, better, thinner, more mature. You can be stuck in that groove forever.
 But you can also gently step out of it. And with a smile on your lips say:
 ‘Thanks for your input. We’ll get back to you.’"
-- Lindeblad
 #+end_quote
 
 #+begin_quote
 "I would guess an average ten-year-old is more or less able to spell out what’s beautiful in the human heart. Patience, generosity, helpfulness, honesty, presence, the ability to forgive, the ability to put yourself in someone else’s shoes for a while, empathy, listening, compassion, understanding, thoughtfulness. Identifying those qualities isn’t hard. But I have a feeling our culture doesn’t always encourage us to bring them out. That’s why I want to highlight them. As a reminder to live life with our backs straight, to bring out what’s most beautiful in us, while we can. I can’t think of anything the world needs more right now."
-- Lindeblad
 #+end_quote
 
 #+ATTR_ORG: :height 300
