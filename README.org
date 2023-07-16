@@ -40,5 +40,17 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 - Lindeblad
 #+end_quote
 
+#+begin_quote
+"...the thought that hurts the most – I should be different. I should be wiser, more hardworking, richer, better, thinner, more mature. You can be stuck in that groove forever.
+But you can also gently step out of it. And with a smile on your lips say:
+‘Thanks for your input. We’ll get back to you.’"
+- Lindeblad
+#+end_quote
+
+#+begin_quote
+"I would guess an average ten-year-old is more or less able to spell out what’s beautiful in the human heart. Patience, generosity, helpfulness, honesty, presence, the ability to forgive, the ability to put yourself in someone else’s shoes for a while, empathy, listening, compassion, understanding, thoughtfulness. Identifying those qualities isn’t hard. But I have a feeling our culture doesn’t always encourage us to bring them out. That’s why I want to highlight them. As a reminder to live life with our backs straight, to bring out what’s most beautiful in us, while we can. I can’t think of anything the world needs more right now."
+- Lindeblad
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
