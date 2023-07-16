@@ -10,5 +10,9 @@ Sirens sound, minds grasp after all that fleets.
 I know where I shall head not, so I continue to walk, trusting myself to that cadence, radiating, and reverberating, from within mein own two feet.
 #+end_quote
 
+#+begin_quote
+"Trust in Allah, but tie your Camel" - Sunan al-Tirmidhī 2517
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
