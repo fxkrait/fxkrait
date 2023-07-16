@@ -32,6 +32,10 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 - Lindeblad
 #+end_quote
 
+#+begin_quote
+"Slowly but surely, I’ve come to understand that there’s a wiser voice I can listen to, that I can dance with life instead of trying to control it. That I can live my life with an open hand rather than a fist clenched in fear.... In Hinduism, there’s a saying: God hid the most precious of all jewels where he knew you would never look for it: in your own pocket."
+- Lindeblad
+#+end_quote
 
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
