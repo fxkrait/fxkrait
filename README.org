@@ -23,6 +23,8 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 - Endure, Cameron Hanes
 #+end_quote
 
+------------
+
 #+begin_quote
 "Trust in Allah, but tie your Camel." - Sunan al-Tirmidhī 2517
 - I May Be Wrong, Björn Natthiko Lindeblad
@@ -62,6 +64,9 @@ Be kind
 
 Always
 #+end_quote
+
+
+-------------
 
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
