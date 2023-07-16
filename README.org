@@ -12,12 +12,17 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 
 #+begin_quote
 "Trust in Allah, but tie your Camel" - Sunan al-Tirmidhī 2517
-- (mentioned in: I May Be Wrong By Björn Natthiko Lindeblad)
+- (mentioned in: I May Be Wrong, Björn Natthiko Lindeblad)
 #+end_quote
 
 #+begin_quote
 "What the catepillar calls the end of the world, the master calls the butterfly."
-- (mentioned in: Never Finished by David Goggins)
+- (mentioned in: Never Finished, David Goggins)
+#+end_quote
+
+#+begin_quote
+ "Remember, if you live for the praise and acceptance of others, you will conversely die by their criticism. Don’t give them that power."
+- Endure, Cameron Hanes
 #+end_quote
 
 #+ATTR_ORG: :height 300
