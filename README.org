@@ -11,7 +11,7 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 #+end_quote
 
 #+begin_quote
-"Trust in Allah, but tie your Camel" - Sunan al-Tirmidhī 2517
+"Trust in Allah, but tie your Camel" - Sunan al-Tirmidhī 2517 (mentioned in: I May Be Wrong By Björn Natthiko Lindeblad)
 #+end_quote
 
 #+ATTR_ORG: :height 300
