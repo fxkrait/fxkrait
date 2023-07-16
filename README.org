@@ -14,5 +14,9 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 "Trust in Allah, but tie your Camel" - Sunan al-Tirmidhī 2517 (mentioned in: I May Be Wrong By Björn Natthiko Lindeblad)
 #+end_quote
 
+#+begin_quote
+"What the catepillar calls the end of the world, the master calls the butterfly." (mentioned in: Never Finished by David Goggins)
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
