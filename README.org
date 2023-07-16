@@ -25,5 +25,9 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 - Endure, Cameron Hanes
 #+end_quote
 
+#+begin_quote
+"Everything is at it should be, always... This too shall pass."
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
