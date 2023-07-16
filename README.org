@@ -35,5 +35,10 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 - Lindeblad
 #+end_quote
 
+#+begin_quote
+"He has lived a hard life and one morning he comes out of his tepee and declares: ‘Today is a good day to die.’ That’s how I want death to come. Like a friend. You’re welcome here, Death. You give me perspective and proportion by whispering in my ear: ‘It all ends one day. Make sure you don’t leave any shadows behind.’"
+- Lindeblad
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
