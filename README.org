@@ -43,7 +43,7 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 #+end_quote
 
 #+begin_quote
-"To believe in nonsense, is really to limit yourself terribly. To live in fear, of all sorts of things that don't exist. Imagine if you will, how it must have been in the old days, when you believed in ogres, and devils, and all kinds of monsters, and evil fairies. I mean the whole world was filled with intelligences superior to your own, that were malicious and evil, and you lived in terro. Now heaven only knows, that there are evils in the world, and there are dangers, but you might as well concentrate on those that really exist, and not create them for yourself, and try to live surrounded by these imaginary menaces."
+"To believe in nonsense, is really to limit yourself terribly. To live in fear, of all sorts of things that don't exist. Imagine if you will, how it must have been in the old days, when you believed in ogres, and devils, and all kinds of monsters, and evil fairies. I mean the whole world was filled with intelligences superior to your own, that were malicious and evil, and you lived in terror. Now heaven only knows, that there are evils in the world, and there are dangers, but you might as well concentrate on those that really exist, and not create them for yourself, and try to live surrounded by these imaginary menaces."
 - Isaac Asimov
 #+end_quote
 
