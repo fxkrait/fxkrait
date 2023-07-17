@@ -62,5 +62,10 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 - Isaac Asimov
 #+end_quote
 
+#+begin_quote
+"But what do I see when I look at things? I see that Reagon and Gorbachev standing there with there arms around each other's shoulders, talking like buddies. And you stop to think of it, this is Gorbachev to whom Reagon must be an imperialist dog, and to Reagan Gorbachev must be an evil imperialist, and the question is why are they such friends. And the answer is they have no choice. And I think throughout, all through the world today, you see cooperation because people have no choice. You see, right now there's going to be a economic summit, every year, the seven industrial nations meet at an economic summit. What they accomplish I don't know. But there's the feeling, they have to get together and talk. We cooperate with questions of the oceans, we cooperate on weather. It's amazing how much the United States and the Soviet Union, how much information they pass to each other on space, for their own good. Nobody is doing this for the good for anyone else. They're doing this for their own good. And this is going to increase. People are going to realize, increasingly, that they're going to have to be nice to each other, not because the bible says so, not because niceness is nice, but only because the other way, there is death."
+- Isaac Asimov
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
