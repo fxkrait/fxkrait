@@ -42,5 +42,15 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
  - Mere Christianity, C.S. Lewis
 #+end_quote
 
+#+begin_quote
+"To believe in nonsense, is really to limit yourself terribly. To live in fear, of all sorts of things that don't exist. Imagine if you will, how it must have been in the old days, when you believed in ogres, and devils, and all kinds of monsters, and evil fairies. I mean the whole world was filled with intelligences superior to your own, that were malicious and evil, and you lived in terro. Now heaven only knows, that there are evils in the world, and there are dangers, but you might as well concentrate on those that really exist, and not create them for yourself, and try to live surrounded by these imaginary menaces."
+- Isaac Asimov
+#+end_quote
+
+#+begin_quote
+"I say 'I'm enthusiastic about thus or so', but if you look at the derivation of the word 'enthusiasm', it means 'god within a person'. Since nobody believes that a human being, all on his own, can accomplish great things. When you get the enthusiastic person who does accomplish great things, it's because some god is acting upon him."
+- Isaac Asimov
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
