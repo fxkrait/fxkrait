@@ -52,5 +52,10 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 - Isaac Asimov
 #+end_quote
 
+#+begin_quote
+"A friend of mine says that science fiction writers are Scouts, sent out by mankind to survey the future, and to come back and say 'that way lie quicksands, this looks pretty good if we can get over a hill, and so on'. We don't predict, not deliberately, sometimes we hit, something that actually comes to pass - I've done that myself, but that's largely accidental. The main thing we do, is just see if we can illuminate the human condition under a particular system of thinking - that is suppose we lived in a society other than our own. Now it's just another version of literature in other words, good literature, all of it, is supposed to illuminate the human condition."
+- Isaac Asimov
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
