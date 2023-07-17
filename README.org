@@ -57,5 +57,10 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 - Isaac Asimov
 #+end_quote
 
+#+begin_quote
+"There you have something like Thomas Moore's utopia, which gave the whole thing it's name. There you're trying to sell something. Your trying to sell the idea that everything would be wonderful if only you had a single tax on land. Or everything would be wonderful if only you had socialism. Or everything would be wonderful if simply everyone held their possesions in common. Or if everyone went to church and followed the Golden Rule. So naturally, you're presenting a wonderful world, but much more common, and much more effective, are the ones that show what not to do - like in Gulliver's Travels, when you have the world of little people, who mirror all the follies and corruption of 18th century England, and you laugh at it, because these are little 6 inch people who are doing all of this you see, and you don't stop to think that what the author is doing is to deliberately mimic English society, and get you to laugh at him, because you think it's Science Fiction."
+- Isaac Asimov
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
