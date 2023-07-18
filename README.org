@@ -10,61 +10,9 @@ Sirens sound, minds grasp after all that fleets.
 I know where I shall head not, so I continue to walk, trusting myself to that cadence, radiating, and reverberating, from within mein own two feet.
 #+end_quote
 
-
 #+begin_quote
-"Trust in Allah, but tie your Camel." - Sunan al-Tirmidhī 2517
-- I May Be Wrong, Björn Natthiko Lindeblad
-#+end_quote
-
-
-#+begin_quote
-"What the catepillar calls the end of the world, the master calls the butterfly."
-- Never Finished, David Goggins
-#+end_quote
-
-#+begin_quote
- "Remember, if you live for the praise and acceptance of others, you will conversely die by their criticism. Don’t give them that power."
-- Endure, Cameron Hanes
-#+end_quote
-
-#+begin_quote
-"Imagine instead journeying through this life without too many shadows, without too many painful memories of times we didn’t act in a dignified way... something beautiful starts to happen when we actively choose to take responsibility for what we say and do. It lightens the load. We do it not just for others, but mostly for ourselves."
-- Lindeblad
-#+end_quote
-
-#+begin_quote
-"Slowly but surely, I’ve come to understand that there’s a wiser voice I can listen to, that I can dance with life instead of trying to control it. That I can live my life with an open hand rather than a fist clenched in fear.... In Hinduism, there’s a saying: God hid the most precious of all jewels where he knew you would never look for it: in your own pocket."
-- Lindeblad
-#+end_quote
-
-#+begin_quote
- "Christianity agrees with Dualism that this universe is at war. But it does not think this is a war between independent powers. It thinks it is a civil war, a rebellion, and that we are living in a part of the universe occupied by the rebel...Enemy-occupied territory—that is what this world is. Christianity is the story of how the rightful king has landed, you might say landed in disguise, and is calling us all to take part in a great campaign of sabotage. When you go to church you are really listening-in to the secret wireless from our friends: that is why the enemy is so anxious to prevent us from going. He does it by playing on our conceit and laziness and intellectual snobbery."
- - Mere Christianity, C.S. Lewis
-#+end_quote
-
-#+begin_quote
-"To believe in nonsense, is really to limit yourself terribly. To live in fear, of all sorts of things that don't exist. Imagine if you will, how it must have been in the old days, when you believed in ogres, and devils, and all kinds of monsters, and evil fairies. I mean the whole world was filled with intelligences superior to your own, that were malicious and evil, and you lived in terror. Now heaven only knows, that there are evils in the world, and there are dangers, but you might as well concentrate on those that really exist, and not create them for yourself, and try to live surrounded by these imaginary menaces."
-- Isaac Asimov
-#+end_quote
-
-#+begin_quote
-"I say 'I'm enthusiastic about thus or so', but if you look at the derivation of the word 'enthusiasm', it means 'god within a person'. Since nobody believes that a human being, all on his own, can accomplish great things. When you get the enthusiastic person who does accomplish great things, it's because some god is acting upon him."
-- Isaac Asimov
-#+end_quote
-
-#+begin_quote
-"A friend of mine says that science fiction writers are Scouts, sent out by mankind to survey the future, and to come back and say 'that way lie quicksands, this looks pretty good if we can get over a hill, and so on'. We don't predict, not deliberately, sometimes we hit, something that actually comes to pass - I've done that myself, but that's largely accidental. The main thing we do, is just see if we can illuminate the human condition under a particular system of thinking - that is suppose we lived in a society other than our own. Now it's just another version of literature in other words, good literature, all of it, is supposed to illuminate the human condition."
-- Isaac Asimov
-#+end_quote
-
-#+begin_quote
-"There you have something like Thomas Moore's utopia, which gave the whole thing it's name. There you're trying to sell something. Your trying to sell the idea that everything would be wonderful if only you had a single tax on land. Or everything would be wonderful if only you had socialism. Or everything would be wonderful if simply everyone held their possesions in common. Or if everyone went to church and followed the Golden Rule. So naturally, you're presenting a wonderful world, but much more common, and much more effective, are the ones that show what not to do - like in Gulliver's Travels, when you have the world of little people, who mirror all the follies and corruption of 18th century England, and you laugh at it, because these are little 6 inch people who are doing all of this you see, and you don't stop to think that what the author is doing is to deliberately mimic English society, and get you to laugh at him, because you think it's Science Fiction."
-- Isaac Asimov
-#+end_quote
-
-#+begin_quote
-"But what do I see when I look at things? I see that Reagan and Gorbachev standing there with there arms around each other's shoulders, talking like buddies. And you stop to think of it, this is Gorbachev to whom Reagon must be an imperialist dog, and to Reagan Gorbachev must be an evil imperialist (as well), and the question is why are they such friends. And the answer is they have no choice. And I think throughout, all through the world today, you see cooperation because people have no choice. You see, right now there's going to be a economic summit, every year, the seven industrial nations meet at an economic summit. What they accomplish I don't know. But there's the feeling, they have to get together and talk. We cooperate with questions of the oceans, we cooperate on weather. It's amazing how much the United States and the Soviet Union, how much information they pass to each other on space, for their own good. Nobody is doing this for the good for anyone else. They're doing this for their own good. And this is going to increase. People are going to realize, increasingly, that they're going to have to be nice to each other, not because the bible says so, not because niceness is nice, but only because the other way, there is death."
-- Isaac Asimov
+"Trust in Allah, but tie your Camel."
+- Sunan al-Tirmidhī 2517
 #+end_quote
 
 #+ATTR_ORG: :height 300
