@@ -1,4 +1,5 @@
-* Food for the Heart, Ajahn Chah quotes
+*Food for the Heart, Ajahn Chah quotes:*
+
 #+begin_quote
 "You don't get wisdom from books."
 #+end_quote
