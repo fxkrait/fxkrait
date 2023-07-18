@@ -1,16 +1,12 @@
+* Food for the Heart, Ajahn Chah quotes
 #+begin_quote
 "You don't get wisdom from books."
-- Ajahn Chah
 #+end_quote
 
 #+begin_quote
 "...his first response would often be: “Can you endure it?” This was said not as some kind of macho challenge, but more as a way of pointing to the fact that the way beyond suffering is neither to run away from it, wallow in it, or even grit one’s teeth and get through on will alone—no—the encouragement of patient endurance is to hold steady in the midst of difficulty, to truly apprehend and digest the experience of dukkha, to understand its causes and let them go."
-- Food for the Heart
 #+end_quote
 
 #+begin_quote
 "ABOUT THIS MIND—in truth there is nothing really wrong with it. It is intrinsically pure. Within itself it’s already peaceful. If the mind is not peaceful these days, it’s because it follows moods. The real mind doesn’t have anything to it; it is simply an aspect of nature. It becomes peaceful or agitated because moods deceive it. The untrained mind is stupid. Sense impressions come and trick it into happiness, suffering, gladness, and sorrow, but the mind’s true nature is none of those things. That gladness or sadness is not the mind, but only a mood coming to deceive us. The untrained mind gets lost and follows these things; it forgets itself. Then we think that it is we who are upset or at ease or whatever."
 #+end_quote
-
-#+ATTR_ORG: :height 300
-[[file:img/philippeDruillet_3_300x.png]]
