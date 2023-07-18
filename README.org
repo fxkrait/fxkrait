@@ -29,11 +29,15 @@ How can you make the mind clear? Just by knowing it. For example, you might thin
 #+end_quote
 
 #+begin_quote
-"Love is transient; hate is transient; good is transient; evil is transient. How could they be permanent? Where is there any permanence in them?""
+"Love is transient; hate is transient; good is transient; evil is transient. How could they be permanent? Where is there any permanence in them?"
 
 "One minute there’s love, the next hate. That’s how things are. In this sense they are permanent. That’s why I say that whenever love arises, just tell it, “So!” It saves a lot of time. You don’t have to say, “Anicca, dukkha, anattā.” If you don’t want a long meditation theme, just take this simple word. If love arises, before you get really lost in it, just tell yourself, “So!” This is enough."
 
 "Everything is transient, and it’s permanent in that it’s invariably transient. Just to see this much is to see the heart of the Dhamma, the True Dhamma."
 
 "Now if everybody said, “So!” more often, and applied themselves to training like this, clinging would diminish. People would not be so stuck on love and hate. They would not cling to things. They would put their trust in the truth, not with other things. Just to know this much is enough; what else do you need to know?"
+#+end_quote
+
+#+begin_quote
+All bhikkhus and sāmaṇeras want peace, every one of us. When I was young, I searched all over for it. Wherever I went, I wasn’t satisfied. Wandering into forests, visiting various teachers, listening to Dhamma talks, nowhere did I find satisfaction. Why is this? We search for peace in places where there are few sights, sounds, odors, or tastes, believing that living quietly will lead to contentment. But actually, if we live very quietly in places where nothing arises, can wisdom arise? Would we be aware of anything? Think about it. What would it be like if the eye didn’t see sights? If the nose didn’t experience smells? If the tongue didn’t experience flavors? If the body didn’t experience feelings? To be like that would be like being a blind and deaf person, one whose nose and tongue had fallen off and who was completely numb with paralysis. Would there be anything there? And yet people tend to think that if they went somewhere where nothing happened, they would find peace.
 #+end_quote
