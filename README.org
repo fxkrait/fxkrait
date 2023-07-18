@@ -15,5 +15,10 @@ I know where I shall head not, so I continue to walk, trusting myself to that ca
 - Sunan al-Tirmidhī 2517
 #+end_quote
 
+#+begin_quote
+"You don't get wisdom from books."
+- Ajahn Chah
+#+end_quote
+
 #+ATTR_ORG: :height 300
 [[file:img/philippeDruillet_3_300x.png]]
