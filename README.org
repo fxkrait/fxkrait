@@ -11,3 +11,7 @@
 #+begin_quote
 "ABOUT THIS MIND—in truth there is nothing really wrong with it. It is intrinsically pure. Within itself it’s already peaceful. If the mind is not peaceful these days, it’s because it follows moods. The real mind doesn’t have anything to it; it is simply an aspect of nature. It becomes peaceful or agitated because moods deceive it. The untrained mind is stupid. Sense impressions come and trick it into happiness, suffering, gladness, and sorrow, but the mind’s true nature is none of those things. That gladness or sadness is not the mind, but only a mood coming to deceive us. The untrained mind gets lost and follows these things; it forgets itself. Then we think that it is we who are upset or at ease or whatever."
 #+end_quote
+
+#+begin_quote
+"If we just run around chasing after happiness and running away from suffering, we can practice until the day we die and never see the Dhamma. When pleasure and pain arise how are we going to use the Dhamma to be free of them? This is the point of practice."
+#+end_quote
