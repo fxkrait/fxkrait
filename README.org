@@ -5,5 +5,9 @@
 #+end_quote
 
 #+begin_quote
+"One minute there’s love, the next hate. That’s how things are. In this sense they are permanent. That’s why I say that whenever love arises, just tell it, “So!” It saves a lot of time. You don’t have to say, “Anicca, dukkha, anattā.” If you don’t want a long meditation theme, just take this simple word. If love arises, before you get really lost in it, just tell yourself, “So!” This is enough."
+#+end_quote
+
+#+begin_quote
 "Everything is transient, and it’s permanent in that it’s invariably transient. Just to see this much is to see the heart of the Dhamma, the True Dhamma."
 #+end_quote
