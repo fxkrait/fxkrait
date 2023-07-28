@@ -1,2 +1,2 @@
 #+ATTR_ORG: :width 600
-[[file:img/drawings-500x-background.png]]
+[[file:img/drawings-500x-background-tiger.png]]
