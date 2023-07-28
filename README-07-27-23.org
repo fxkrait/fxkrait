@@ -1,0 +1,2 @@
+#+ATTR_ORG: :width 600
+[[file:.images/2023-07-26_18-55-13_screenshot.png]]
