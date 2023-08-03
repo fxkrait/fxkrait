@@ -11,3 +11,7 @@ A: I worry that I've spent and wasted too much of my life on carnal/trivial matt
 #+begin_quote
 "[The wanderer Vacchagotta asked the Blessed One:] “Then does Master Gotama hold any speculative view at all?” “Vaccha, ‘speculative view’ is something that the Tathāgata has put away. For the Tathāgata, Vaccha, has seen this: ‘Such is form, such its origin, such its passing away...Therefore, I say, with the destruction, fading away, cessation, giving up, and relinquishing of all conceiving, all rumination, all I-making, mine-making, and the underlying tendency to conceit, the Tathāgata is liberated through not clinging.”"
 #+end_quote
+
+
+#+ATTR_ORG: :width 600
+[[file:img/gtmFudoManjushri-300x.png]]
