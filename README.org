@@ -12,4 +12,4 @@
 #+ATTR_ORG: :width 600
 [[file:img/gtmFudoManjushri-300x.png]]
 - Gankyil Triratna Moek
-  - [[https://en.wikipedia.org/wiki/Manjushri][Manjushri]], the original spiritual swordsman, [[https://berserk.fandom.com/wiki/Guts][pre-guts]]
+  - [[https://en.wikipedia.org/wiki/Manjushri][Manjushri]], the original spiritual swordsman, pre-[[https://berserk.fandom.com/wiki/Guts][Guts]]
