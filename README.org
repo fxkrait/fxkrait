@@ -1,8 +1,6 @@
 #+ATTR_ORG: :width 600
 [[file:.images/drawings-sparkling-500x.jpg]]
-- ([[https://berserk.fandom.com/wiki/Beherit][Berserk]] 𒉭, [[https://ghibli.fandom.com/wiki/No-Face][Spirited Away]], and [[https://en.wikipedia.org/wiki/Moai][tribal]] influenced doodles placed on top of a Tibetan tiger skin textile)
- 
---------------
+
 
 #+begin_quote
 “You don’t get wisdom from books.” - Ajahn Chah
