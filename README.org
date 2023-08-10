@@ -1,5 +1,5 @@
 #+ATTR_ORG: :width 600
-[[file:img/drawings-500x-background-tiger-2.png]]
+[[file:.images/drawings-sparkling-500x.jpg]]
 - ([[https://berserk.fandom.com/wiki/Beherit][Berserk]] 𒉭, [[https://ghibli.fandom.com/wiki/No-Face][Spirited Away]], and [[https://en.wikipedia.org/wiki/Moai][tribal]] influenced doodles placed on top of a Tibetan tiger skin textile)
  
 --------------
@@ -7,10 +7,5 @@
 #+begin_quote
 “You don’t get wisdom from books.” - Ajahn Chah
 #+end_quote
-
-
-#+ATTR_ORG: :width 600
-[[file:.images/sparkling-violetears.jpg]]
-
 
 https://github.com/greghab/greghab/assets/7407672/2e4a332f-d971-4246-a54e-be35f54f2484
