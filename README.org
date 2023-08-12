@@ -2,3 +2,6 @@
 [[file:img/drawings-costas-4-500x.jpg]]
 
 https://github.com/greghab/greghab/assets/7407672/2e4a332f-d971-4246-a54e-be35f54f2484
+
+#+ATTR_ORG: :width 600
+[[file:img/made_with_emacs-inverted.png]]
