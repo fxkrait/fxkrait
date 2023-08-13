@@ -1,7 +1,7 @@
 #+ATTR_ORG: :width 600
 [[file:img/drawings-costas-5-500x.jpg]]
 
-https://github.com/greghab/greghab/assets/7407672/00229310-255e-4319-bdd0-f9d77ffbab6f
+https://github.com/greghab/greghab/assets/7407672/2eea3cb1-7328-43a8-961e-358fcd8aece1
 
 #+ATTR_ORG: :width 75
 [[file:img/made_with_emacs-inverted-75x.png]]
