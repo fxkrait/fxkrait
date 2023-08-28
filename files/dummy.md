@@ -54,6 +54,11 @@
 
 [08-26-23-1x-08-23-23-0.83x-test124-79-167-155-1.21x-test192-1x-test194-1.1x-test198-1x-08-19-23-1x-0.83x-short-08-20-23.2-1x.webm](https://github.com/greghab/greghab/assets/7407672/b17c524a-cf9d-457f-bab5-8fcbff5f2548)
 
+[09-06-23-0.83x-djed-08-26-23-1x-08-23-23-0.83x-09-01-23-0.83x-test124-79-167-155-1.21x-test192-1x-test194-1.1x-test198-1x-08-19-23-1x-0.83x-short-08-20-23.2-1x.webm](https://github.com/greghab/greghab/assets/7407672/9f00911a-989d-42ce-8304-547b7717df43)
+
+
+
+
 
 [RazSimoneBullshit_TonyRobbinsAwakenTheGiantWithin.webm](https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82)
 
