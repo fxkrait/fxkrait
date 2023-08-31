@@ -17,6 +17,10 @@
 "Liberate yourself from yourself."
 #+end_quote
 
+#+begin_quote
+"There is no place for righteous anger. In the end, anger is anger, and it's coming from a personal place. And what it's going to do, is create more anger on the other side."
+#+end_quote
+
 https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82
 
 https://github.com/greghab/greghab/assets/7407672/9f00911a-989d-42ce-8304-547b7717df43
