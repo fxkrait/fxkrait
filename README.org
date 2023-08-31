@@ -14,7 +14,7 @@
 #+end_quote
 
 #+begin_quote
-Liberate yourself from yourself.
+"Liberate yourself from yourself."
 #+end_quote
 
 https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82
