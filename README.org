@@ -1,5 +1,5 @@
 #+ATTR_ORG: :width 600
-[[file:img/drawings-costas-10-500x.jpg]]
+[[file:img/drawings-background-tiger-10-500x.png]]
 
 https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82
 
