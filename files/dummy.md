@@ -1,4 +1,24 @@
 
+https://stackoverflow.com/questions/70073951/how-to-align-readme-stats-side-by-side-in-github
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=greghab&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greghab&theme=radical&layout=compact" />
+</div>
+
+videos (doesn't work):
+
+<div style="display: flex; flex-direction: row;">
+<video src="https://github.com/greghab/greghab/assets/7407672/b8217193-edbc-4354-901a-b8d2238847d2" />
+ <video src="https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82" />
+   
+</div>
+
+
+text...
+
+
+
 [09-22-23.1.webm](https://github.com/greghab/greghab/assets/7407672/b8217193-edbc-4354-901a-b8d2238847d2)
 
 
