@@ -3,7 +3,7 @@
 
 https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82
 
-https://github.com/greghab/greghab/assets/7407672/9f00911a-989d-42ce-8304-547b7717df43
+https://github.com/greghab/greghab/assets/7407672/b8217193-edbc-4354-901a-b8d2238847d2
 
 #+ATTR_ORG: :width 75
 [[file:img/made_with_emacs-inverted-75x.png]]
