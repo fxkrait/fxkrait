@@ -15,6 +15,18 @@ videos (doesn't work):
 </div>
 
 
+video table (does work):
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><video src="https://github.com/greghab/greghab/assets/7407672/b8217193-edbc-4354-901a-b8d2238847d2" /></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"> <video src="https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82" /></td>
+  </tr>
+</table>
+
+
 text...
 
 
