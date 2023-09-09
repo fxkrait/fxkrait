@@ -30,6 +30,10 @@ video table (does work):
 text...
 
 
+[09-26-23.webm](https://github.com/greghab/greghab/assets/7407672/d3b35002-fa80-4e8b-9832-d8313408b62b)
+
+
+
 
 [09-22-23.1.webm](https://github.com/greghab/greghab/assets/7407672/b8217193-edbc-4354-901a-b8d2238847d2)
 
