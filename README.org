@@ -10,7 +10,7 @@
 
 
 #+begin_quote
-“Countries with high-trust cultures—those where regulations and laws are fair and enforced, with secure and stable business environments, and with trustworthy leaders—attract capital and investment, which drive economic growth and employment.” From the bottom, people’s dreams, beliefs, core values, and skills empower them to climb the social mobility ladder into the middle class, which they term the engine room of greater prosperity" - Change Your World
+“"Countries with high-trust cultures—those where regulations and laws are fair and enforced, with secure and stable business environments, and with trustworthy leaders—attract capital and investment, which drive economic growth and employment.” From the bottom, people’s dreams, beliefs, core values, and skills empower them to climb the social mobility ladder into the middle class, which they term the engine room of greater prosperity" - Change Your World
 #+end_quote
 
 
