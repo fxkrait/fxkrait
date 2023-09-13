@@ -33,6 +33,6 @@
 
 
 
-#+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> Most Recent Doodle: </p><img class="img" src="https://github.com/greghab/piletexodus-2023/blob/main/.images/philippeDruillet_300x.png" width="800"/></td> <td valign="bottom"> <img class="img" src="https://github.com/greghab/piletexodus-2023/blob/main/.images/philippeDruillet_300x.png"/></td></tr> </table>
+#+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> Most Recent Doodle: </p><img class="img" src="https://github.com/greghab/piletexodus-2023/blob/main/.images/philippeDruillet_300x.png" width="800"/></td> <td valign="bottom"> <p> Most Recent Melody: </p> <img class="img" src="https://github.com/greghab/piletexodus-2023/blob/main/.images/philippeDruillet_300x.png"/></td></tr> </table>
 
 
