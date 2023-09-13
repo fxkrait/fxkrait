@@ -13,7 +13,7 @@
 #+end_quote
 
 #+begin_quote
-"Everything worthwhile is uphill"
+"Everything worthwhile is uphill... Climb all the way."
 #+end_quote
 
 # marks:
