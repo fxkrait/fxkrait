@@ -9,7 +9,7 @@
 #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="bottom"> <video src="https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82" /></td> <td valign="bottom"><video src="https://github.com/greghab/greghab/assets/7407672/c6e360e6-ee87-477e-aaff-403f317ad0c2" /></td></tr> </table>
 
 #+begin_quote
- “Declare the United States the winner and begin de-escalation.”—Senator George Aiken (R-VT) offering advice to President Lyndon Johnson on October 19, 1966 on how to handle the politics of reducing the U.S. commitment in Vietnam.
+"If we crave some cosmic purpose, then let us find ourselves a worthy goal."
 #+end_quote
 
 # marks:
