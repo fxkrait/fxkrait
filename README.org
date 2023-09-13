@@ -16,6 +16,11 @@
 "Everything worthwhile is uphill ... Climb all the way."
 #+end_quote
 
+
+
+#+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <blockquote> "If we crave some cosmic purpose, then let us find ourselves a worthy goal." </blockquotex> </td> <td valign="bottom"> <p> Most Recent Melody: </p> <video src="https://github.com/greghab/greghab/assets/7407672/c6e360e6-ee87-477e-aaff-403f317ad0c2" /> </td></tr> </table>
+
+
 # marks:
 |------------------------------+-----------+-----------+----------+-----------+---------------+-----------+---------------+-----------+------------+------------+-----------+-------------+---------------+-------------|
 | [[file:README.org][Link]]=Proof-of-Work Available | 🎇Weik🎇 | 🫧Keit🫧 | 🫀Aki🫀 | 🐲Prey🐲 | 🌴Eskapade🌴 | 🐚لَحني🐚 | 🥀Dahin-mi🥀 | 🥋Kalt🥋 | 🔊Lunar🪐 | 🪂Gyana🪂 | 🌋Kies🌋 | 🪅Recall🪅 | ♟️P-Streak♟️ | 🌁Schlaf🌁 |
