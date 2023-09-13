@@ -8,15 +8,6 @@
 
 #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="bottom"> <video src="https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82" /></td> <td valign="bottom"><video src="https://github.com/greghab/greghab/assets/7407672/c6e360e6-ee87-477e-aaff-403f317ad0c2" /></td></tr> </table>
 
-#+begin_quote
-"If we crave some cosmic purpose, then let us find ourselves a worthy goal."
-#+end_quote
-
-#+begin_quote
-"Everything worthwhile is uphill ... Climb all the way."
-#+end_quote
-
-
 
 #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <blockquote> "If we crave some cosmic purpose, then let us find ourselves a worthy goal." </blockquotex> </td> <td valign="bottom"> <blockquote> "Everything worthwhile is uphill ... Climb all the way." </blockquote </td></tr> </table>
 
