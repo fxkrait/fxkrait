@@ -12,7 +12,7 @@
 #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> “Heedfulness is the way to the deathless: heedlessness is death” </p> </td> <td valign="bottom"> <p> "Everything worthwhile is uphill ... Climb up all the way." </p </td></tr> </table>
 
 
-#+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> “Success is not a destination, but a continuous dynamic process.” </p> </td> <td valign="bottom"> <p> "Everything worthwhile is uphill ... Climb up all the way." </p </td></tr> </table>
+#+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> “Success is not a destination, but a continuous dynamic process.” </p> </td> <td valign="bottom"> <p>  “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” </p </td></tr> </table>
 
 
 # marks:
