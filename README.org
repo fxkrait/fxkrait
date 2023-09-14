@@ -34,3 +34,18 @@
 #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> Most Recent Doodle: </p><img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg" width="800"/></td> <td valign="bottom"> <p> Most Recent Melody: </p> <video src="https://github.com/greghab/greghab/assets/7407672/c6e360e6-ee87-477e-aaff-403f317ad0c2" /> </td></tr> </table>
 
 
+
+
+#+begin_quote
+- Thomas Edison's teachers told him he was 'too stupid to learn anything'
+- Vincent Van Gogh sold only one painting, 'The Red Vineyard,' in his life, and the sale was just months before his death
+   - If he had given up his artistic career after it proved to strain his financial and emotional well-being, the art world would be missing hundreds of paintings from a true master.
+- After Harrison Ford's first small movie role, an executive took him into his office and told him he'd never succeed in the movie business
+- Theodor Seuss Geisel, better known as Dr. Seuss, had his first book rejected by 27 different publishers
+- Aerospace engineer Clayton Anderson was rejected by NASA 15 times before finally going to space
+- Lucille Ball appeared in so many second-tier films at the start of her career that she became known as 'The Queen of B Movies'
+- Winston Churchill was estranged from his political party over ideological disagreements during the 'wilderness years' of 1929 to 1939
+- A young Henry Ford ruined his reputation with a couple of failed automobile businesses
+- While developing his vacuum, Sir James Dyson went through 5,126 failed prototypes and his savings over 15 years
+- Stephen King grew so frustrated over his attempt to write the novel 'Carrie' that he threw away the entire early draft
+#+end_quote
