@@ -16,7 +16,7 @@
 
 #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  Not "how long will this take?", but "How far can I go?" </p> </td> <td valign="bottom"> <p> <b> "Change from incidental to intentional growth."  </b> </p </td>  <td valign="bottom"> <p> Why not you? </p </td></tr> </table>
 
-#+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  “Create your own narrative.” </p> </td> <td valign="bottom"> <p>  “Give up weak attractors for strong attractors.” </p </td> <td valign="bottom"> <p>  “You only get ready by starting.” </p </td> </td> <td valign="bottom"> <p>  🏔️🧗📿</p </td> </tr> </table>
+#+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  “Create your own narrative.” </p> </td> <td valign="bottom"> <p>  “Give up weak attractors for strong attractors.” </p </td> <td valign="bottom"> <p>  “You only get ready by starting.” </p </td> </td> <td valign="bottom"> <p>  🏔️📿</p </td> </tr> </table>
 
 
 # marks:
