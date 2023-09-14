@@ -9,7 +9,7 @@
 #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="bottom"> <video src="https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82" /></td> <td valign="bottom"><video src="https://github.com/greghab/greghab/assets/7407672/da534a25-687e-4018-aed8-02bdfc924bcc" /></td></tr> </table>
 
 
-#+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> <b> “Heedfulness is the way to the deathless: heedlessness is death” </b> </p> </td> <td valign="bottom"> <p> "Everything worthwhile is uphill ... Climb up all the way." </p </td></tr> </table>
+#+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> “Heedfulness is the way to the deathless: heedlessness is death”</p> </td> <td valign="bottom"> <p> "Everything worthwhile is uphill ... Climb up all the way." </p </td></tr> </table>
 
 
 #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  “Success is a continuous dynamic process. not a end” </p> </td> <td valign="bottom"> <p>   “We are what we repeatedly do. Excellence is a habit, not an act” </p </td></tr> </table>
