@@ -30,6 +30,11 @@ video table (does work):
 text...
 
 
+[RazSimoneBullshit_TonyRobbinsATGW.webm](https://github.com/greghab/greghab/assets/7407672/2e84bed4-b439-4937-ac70-c20e37549934)
+
+
+
+
 [09-16-4-23-0.83x.webm](https://github.com/greghab/greghab/assets/7407672/6a60ab43-7eef-4b6a-94e1-c6bfd3539577)
 
 
