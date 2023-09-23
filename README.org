@@ -9,7 +9,7 @@
 #+begin_html
 <table cellpadding="0">
 <tr style="padding: 0">
-<td valign="bottom"> <video src="https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82" /></td>
+<td valign="bottom" style="background-color: yellow"> <video src="https://github.com/greghab/greghab/assets/7407672/938dda93-d896-4b42-9820-e0af3b566b82" /></td>
 <td valign="bottom"> <video src="https://github.com/greghab/piletexodus/assets/7407672/756fb7bc-b420-444d-bad1-0daf19cf4cd1" /></td>
 <td valign="bottom"> <video src="https://github.com/greghab/piletexodus/assets/7407672/124361fb-846f-4b10-a97e-29d5bdee52c8" /></td>
 </tr>
