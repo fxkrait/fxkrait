@@ -20,6 +20,25 @@
 #+end_html
 
 
+
+
+#+begin_html
+<!--- https://stackoverflow.com/questions/66525452/is-there-any-way-to-show-collapsible-contents-in-github-readme-org-org-mode --->
+  <details>
+      <summary>
+    Act2Renascence
+    </summary>
+   <ul>
+<li> RazSimoneBullshit+TonyRobbinsAwakenTheGiantWithin</li>
+<li> DavidGoggins</li>
+<li> Key!PopIt+ElonMuskLexFridman</li>
+<li> TravisScottOhMyDisSideLive</li>
+   </ul> 
+  </details>
+#+end_html
+
+
+
 #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> <b> Heedfulness is the way to the deathless: heedlessness is death </b> </p> </td> <td valign="bottom"> <p> Everything worthwhile is uphill ... Climb up all the way </p </td></tr> </table>
 
 
