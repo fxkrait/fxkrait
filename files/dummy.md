@@ -30,6 +30,10 @@ video table (does work):
 text...
 
 
+[act2renésense.webm](https://github.com/greghab/greghab/assets/7407672/581f4620-a5c5-49a8-ac31-58d1b6e8e06e)
+
+
+
 Re-eq'd:
 
 [Act2Renascence.webm](https://github.com/greghab/greghab/assets/7407672/20ef47b6-f921-4ba5-84fc-6174a00565b4)
