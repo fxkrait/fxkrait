@@ -33,7 +33,8 @@
 <li> DavidGoggins</li>
 <li> Key!PopIt+ElonMuskLexFridman</li>
 <li> TravisScottOhMyDisSideLive</li>
-   </ul> 
+   </ul>
+   <blockquote> "... painting declines and deteriorates from age to age, when painters have no other standard than painting already does. Hence the painter will produce pictures of small merit if he takes for his standard the pictures of others." - Leonardo da Vinci </blockquote>
   </details>
 #+end_html
 
