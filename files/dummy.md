@@ -2,8 +2,8 @@
 https://stackoverflow.com/questions/70073951/how-to-align-readme-stats-side-by-side-in-github
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=greghab&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greghab&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=fxkrait&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxkrait&theme=radical&layout=compact" />
 </div>
 
 videos (doesn't work):
@@ -29,6 +29,7 @@ video table (does work):
 
 text...
 
+[act2renésense.webm](https://github.com/fxkrait/fxkrait/assets/7407672/a42ea5f0-c580-4a20-82fe-d534aaafe0a1)
 
 [act2renésense.webm](https://github.com/greghab/greghab/assets/7407672/581f4620-a5c5-49a8-ac31-58d1b6e8e06e)
 
