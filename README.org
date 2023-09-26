@@ -9,7 +9,7 @@
 #+begin_html
 <table cellpadding="0">
 <tr style="padding: 0">
-<td valign="bottom" style="background-color: yellow"   width= 30%> <video src="https://github.com/greghab/greghab/assets/7407672/581f4620-a5c5-49a8-ac31-58d1b6e8e06e" /></td>
+<td valign="bottom" style="background-color: yellow"   width= 30%> <video src="https://github.com/fxkrait/fxkrait/assets/7407672/a42ea5f0-c580-4a20-82fe-d534aaafe0a1" /></td>
 <td valign="bottom"> <video src="https://github.com/greghab/piletexodus-2023/assets/7407672/1a0cb3fe-bf24-4f53-84ff-128934a5144f" /></td>
 <td valign="bottom"> <video src="https://github.com/greghab/piletexodus/assets/7407672/124361fb-846f-4b10-a97e-29d5bdee52c8" /></td>
 <td valign="bottom"> <video src="https://github.com/greghab/piletexodus-2023/assets/7407672/dec81371-dbd9-49df-9311-89a04d1c45f8" /></td>
@@ -33,6 +33,7 @@
 <li> DavidGoggins</li>
 <li> Key!PopIt+ElonMuskLexFridman</li>
 <li> TravisScottOhMyDisSideLive</li>
+<li> M.I.A.UziMarigold </li>
    </ul>
    <blockquote> "... painting declines and deteriorates from age to age, when painters have no other standard than painting already does. Hence the painter will produce pictures of small merit if he takes for his standard the pictures of others." - Leonardo da Vinci </blockquote>
       <blockquote>  "One thing that's dangerous about focusing on craft and working very hard is that, it can keep you from asking the really relevant questions. I'm trying to get good at something. What is that thing I'm trying to get good at? The real thing?" - Christoph Niemann (Abstract.The.Art.of.Design.S01E01) </blockquote>
