@@ -42,13 +42,14 @@
 #+begin_html
 <table cellpadding="0">
 <tr style="padding: 0">
+<td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/26507a20-69a1-46d0-a155-8b6f67f2cc99" /></td>
 <td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/89c37ae7-275a-4132-9e03-8fe76ce4bca7" /></td>
 <td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/714d1fda-44d6-4bc0-801e-49c7390f2d39" /></td>
-
 </tr>
 </table>
 
 #+end_html
+
 
 
 #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> <b> Heedfulness is the way to the deathless: heedlessness is death </b> </p> </td> <td valign="bottom"> <p> Everything worthwhile is uphill ... Climb up all the way </p </td></tr> </table>
