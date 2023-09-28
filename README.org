@@ -22,7 +22,10 @@
 
 #+begin_html
 <!--- https://stackoverflow.com/questions/66525452/is-there-any-way-to-show-collapsible-contents-in-github-readme-org-org-mode --->
-  <details>
+
+
+<!--
+<details>
       <summary>
     act2renésense
     </summary>
@@ -32,10 +35,12 @@
 <li> Key!PopIt+ElonMuskLexFridman</li>
 <li> TravisScottOhMyDisSideLive</li>
 <li> M.I.A.UziMarigold </li>
+<li> LilyRoseDeppID </li>
    </ul>
    <blockquote> "... painting declines and deteriorates from age to age, when painters have no other standard than painting already does. Hence the painter will produce pictures of small merit if he takes for his standard the pictures of others." - Leonardo da Vinci </blockquote>
       <blockquote>  "One thing that's dangerous about focusing on craft and working very hard is that, it can keep you from asking the really relevant questions. I'm trying to get good at something. What is that thing I'm trying to get good at? The real thing?" - Christoph Niemann (Abstract.The.Art.of.Design.S01E01) </blockquote>
   </details>
+-->
 #+end_html
 
 
