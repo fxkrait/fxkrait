@@ -19,44 +19,6 @@
 #+end_html
 
 
-
-#+begin_html
-<!--- https://stackoverflow.com/questions/66525452/is-there-any-way-to-show-collapsible-contents-in-github-readme-org-org-mode --->
-
-
-<!--
-<details>
-      <summary>
-    act2renésense
-    </summary>
-   <ul>
-<li> RazSimoneBullshit+TonyRobbinsAwakenTheGiantWithin</li>
-<li> DavidGoggins</li>
-<li> Key!PopIt+ElonMuskLexFridman</li>
-<li> TravisScottOhMyDisSideLive</li>
-<li> M.I.A.UziMarigold </li>
-<li> LilyRoseDeppID </li>
-   </ul>
-   <blockquote> "... painting declines and deteriorates from age to age, when painters have no other standard than painting already does. Hence the painter will produce pictures of small merit if he takes for his standard the pictures of others." - Leonardo da Vinci </blockquote>
-      <blockquote>  "One thing that's dangerous about focusing on craft and working very hard is that, it can keep you from asking the really relevant questions. I'm trying to get good at something. What is that thing I'm trying to get good at? The real thing?" - Christoph Niemann (Abstract.The.Art.of.Design.S01E01) </blockquote>
-  </details>
--->
-#+end_html
-
-
-#+begin_html
-<table cellpadding="0">
-<tr style="padding: 0">
-<td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/89c37ae7-275a-4132-9e03-8fe76ce4bca7" /></td>
-<td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/714d1fda-44d6-4bc0-801e-49c7390f2d39" /></td>
-<td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/9da8143d-c248-49d5-a531-6e7f56fb1b41" /></td>
-<td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/26507a20-69a1-46d0-a155-8b6f67f2cc99" /></td>
-</tr>
-</table>
-
-#+end_html
-
-
 #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> <b> Heedfulness is the way to the deathless: heedlessness is death </b> </p> </td> <td valign="bottom"> <p> Everything worthwhile is uphill ... Climb up all the way </p </td></tr> </table>
 
 
