@@ -32,10 +32,10 @@
       <summary>
    📜 <a href="https://www.merriam-webster.com/dictionary/ken">Ken</a> Lineament 📜
     </summary>
-     <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> <b> Heedfulness is the way to the deathless: heedlessness is death </b> </p> </td> <td valign="bottom"> <p> Everything worthwhile is uphill ... Climb up all the way </p </td></tr> </table>
- <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  Success is a continuous dynamic process. not an end </p> </td> <td valign="bottom"> <p>   We are what we repeatedly do. Excellence is a habit, not an act </p </td></tr> </table>
- <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  Not "How long will this take?", but "How far can I go?" </p> </td> <td valign="bottom"> <p> <b> Change from incidental to intentional growth </b> </p </td>  <td valign="bottom"> <p> Why not you? </p </td></tr> </table>
- <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  Create your own narrative </p> </td> <td valign="bottom"> <p>  Give up weak attractors for strong attractors </p </td> <td valign="bottom"> <p>  You only get ready by starting </p </td> </td> <td valign="bottom"> <p>  🏔️📿</p </td> </tr> </table>
+     <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <q> <b> Heedfulness is the way to the deathless: heedlessness is death </b> </q> </td> <td valign="bottom"> <q> Everything worthwhile is uphill ... Climb up all the way </p </td></tr> </table>
+ <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <q>  Success is a continuous dynamic process. not an end </q> </td> <td valign="bottom"> <q>   We are what we repeatedly do. Excellence is a habit, not an act </p </td></tr> </table>
+ <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <q>  Not "How long will this take?", but "How far can I go?" </q> </td> <td valign="bottom"> <q> <b> Change from incidental to intentional growth </b> </p </td>  <td valign="bottom"> <q> Why not you? </p </td></tr> </table>
+ <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <q>  Create your own narrative </q> </td> <td valign="bottom"> <q>  Give up weak attractors for strong attractors </p </td> <td valign="bottom"> <q>  You only get ready by starting </p </td> </td> <td valign="bottom"> <q>  🏔️📿</q> </td> </tr> </table>
 </details>
 #+end_html
 
