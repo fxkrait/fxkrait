@@ -45,7 +45,7 @@
 <!--- https://stackoverflow.com/questions/66525452/is-there-any-way-to-show-collapsible-contents-in-github-readme-org-org-mode --->
   <details>
       <summary>
-    🌋 On The Walls Of The Other 🌋
+    🌋 Walls of Other's 🌋
     </summary>
    <ul>
 <li> Thomas Edison's teachers told him he was 'too stupid to learn anything'</li>
