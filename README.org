@@ -1,6 +1,6 @@
 #+begin_html
 <details open>
-  <summary>🖊️ Doodle Collage 📓</summary>
+  <summary>🖊️ Doodle Mashup 📓</summary>
    <img class="img" src="img/drawings-background-tiger-12.1-250x-jpegoptim-150k.jpg"/>
 </details>
 #+end_html
