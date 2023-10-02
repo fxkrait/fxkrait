@@ -1,5 +1,5 @@
 #+ATTR_ORG: :width 600
-[[file:img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg]]
+[[file:img/drawings-background-tiger-12.1-300x-jpegoptim-150k.jpg]]
 
 # #+HTML: <div style="display: flex; flex-direction: row;"> <img class="img" src="img/drawings-background-tiger-11-500x-pngcrush.png" width="800"/> <img class="img" src="img/made_with_emacs-inverted-75x.png"/> </div>
 
@@ -63,7 +63,7 @@
 
 
 
-# #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> Most Recent Doodle: </p><img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg" width="800"/></td> <td valign="bottom"> <p> Most Recent Melody: </p> <video src="https://github.com/greghab/greghab/assets/7407672/c6e360e6-ee87-477e-aaff-403f317ad0c2" /> </td></tr> </table>
+# #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> Most Recent Doodle: </p><img class="img" src="img/drawings-background-tiger-12.1-300x-jpegoptim-150k.jpg" width="800"/></td> <td valign="bottom"> <p> Most Recent Melody: </p> <video src="https://github.com/greghab/greghab/assets/7407672/c6e360e6-ee87-477e-aaff-403f317ad0c2" /> </td></tr> </table>
 
 
 #+begin_html
