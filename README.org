@@ -1,6 +1,22 @@
 #+begin_html
 <details open>
   <summary>🖊️ Doodle Mashup 📓</summary>
+   <table cellpadding="0">
+<tr style="padding: 0">
+<td valign="bottom"> <img class="img" src="img/drawings-background-tiger-12.1-300x-jpegoptim-150k.jpg"/>
+</td>
+<td valign="bottom"> <video src="https://github.com/greghab/greghab/assets/7407672/31d400bf-6123-46e9-822c-889e8e56d5a1" />></td>
+</tr>
+</table>
+</details>
+</details>
+#+end_html
+
+
+
+#+begin_html
+<details open>
+  <summary>🖊️ Doodle Mashup 📓</summary>
    <img class="img" src="img/drawings-background-tiger-12.1-300x-jpegoptim-150k.jpg"/>
 </details>
 #+end_html
