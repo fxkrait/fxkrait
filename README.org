@@ -26,7 +26,7 @@
 
   <details>
       <summary>
-   📜 Quotes 📜
+   📜 Nice Thoughts 📜
     </summary>
      <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> <b> Heedfulness is the way to the deathless: heedlessness is death </b> </p> </td> <td valign="bottom"> <p> Everything worthwhile is uphill ... Climb up all the way </p </td></tr> </table>
  <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  Success is a continuous dynamic process. not an end </p> </td> <td valign="bottom"> <p>   We are what we repeatedly do. Excellence is a habit, not an act </p </td></tr> </table>
