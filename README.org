@@ -48,6 +48,7 @@
     🌋 Walls of Others' 🌋
     </summary>
    <ul>
+   <blockquote>
 <li> <q> Thomas Edison's teachers told him he was 'too stupid to learn anything' </q> </li>
 <li> <blockquote> Vincent Van Gogh sold only one painting, 'The Red Vineyard,' in his life, and the sale was just months before his death </blockquote> </li>
 <ul>
@@ -61,6 +62,7 @@
 <li> A young Henry Ford ruined his reputation with a couple of failed automobile businesses</li>
 <li> While developing his vacuum, Sir James Dyson went through 5,126 failed prototypes and his savings over 15 years</li>
 <li> Stephen King grew so frustrated over his attempt to write the novel 'Carrie' that he threw away the entire early draft</li>
+</blockquote>
    </ul> 
   </details>
 #+end_html
