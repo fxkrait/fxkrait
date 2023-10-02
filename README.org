@@ -30,7 +30,7 @@
 
   <details>
       <summary>
-   📜 Thoughts that give Perspective 📜
+   📜 Thoughts That Give Perspective 📜
     </summary>
      <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> <b> Heedfulness is the way to the deathless: heedlessness is death </b> </p> </td> <td valign="bottom"> <p> Everything worthwhile is uphill ... Climb up all the way </p </td></tr> </table>
  <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  Success is a continuous dynamic process. not an end </p> </td> <td valign="bottom"> <p>   We are what we repeatedly do. Excellence is a habit, not an act </p </td></tr> </table>
@@ -45,7 +45,7 @@
 <!--- https://stackoverflow.com/questions/66525452/is-there-any-way-to-show-collapsible-contents-in-github-readme-org-org-mode --->
   <details>
       <summary>
-    🌋 On the Walls of the Other 🌋
+    🌋 On The Walls Of The Other 🌋
     </summary>
    <ul>
 <li> Thomas Edison's teachers told him he was 'too stupid to learn anything'</li>
