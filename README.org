@@ -13,7 +13,7 @@
 #+begin_html
   <details>
       <summary>
-    📻 My Tunes 📻
+    📻 Melody Mashup 📻
     </summary>
 <table cellpadding="0">
 <tr style="padding: 0">
