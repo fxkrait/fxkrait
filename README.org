@@ -49,7 +49,7 @@
     </summary>
    <ul>
 <li> <q> Thomas Edison's teachers told him he was 'too stupid to learn anything' </q> </li>
-<li> Vincent Van Gogh sold only one painting, 'The Red Vineyard,' in his life, and the sale was just months before his death</li>
+<li> <blockquote> Vincent Van Gogh sold only one painting, 'The Red Vineyard,' in his life, and the sale was just months before his death </blockquote> </li>
 <ul>
    <li> <blockquote> If he had given up his artistic career after it proved to strain his financial and emotional well-being, the art world would be missing hundreds of paintings from a true master. </<blockquote> </li>
      </ul>
