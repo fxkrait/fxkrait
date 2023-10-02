@@ -12,15 +12,6 @@
 </details>
 #+end_html
 
-
-
-#+begin_html
-<details open>
-  <summary>🖊️ Doodle Mashup 📓</summary>
-   <img class="img" src="img/drawings-background-tiger-12.1-300x-jpegoptim-150k.jpg"/>
-</details>
-#+end_html
-
 # #+HTML: <div style="display: flex; flex-direction: row;"> <img class="img" src="img/drawings-background-tiger-11-500x-pngcrush.png" width="800"/> <img class="img" src="img/made_with_emacs-inverted-75x.png"/> </div>
 
 # #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <img class="img" src="img/drawings-background-tiger-11-500x-pngcrush.png" width="800"/></td> <td valign="bottom"> <img class="img" src="img/made_with_emacs-inverted-75x.png"/></td></tr> </table>
