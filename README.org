@@ -13,7 +13,7 @@ A neighborly developer 🏕️, currently focusing on improving my discipline, e
   <summary>🖊️ Doodle Mashup 📓</summary>
    <table cellpadding="0">
 <tr style="padding: 0">
-<td valign="bottom"> <img class="img" src="img/drawings-background-tiger-12.1-300x-jpegoptim-150k.jpg"/>
+<td valign="bottom"> <img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg"/>
 </td>
 <td valign="bottom"> <video src="https://github.com/greghab/greghab/assets/7407672/31d400bf-6123-46e9-822c-889e8e56d5a1" />></td>
 </tr>
@@ -86,7 +86,7 @@ A neighborly developer 🏕️, currently focusing on improving my discipline, e
 
 
 
-# #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> Most Recent Doodle: </p><img class="img" src="img/drawings-background-tiger-12.1-300x-jpegoptim-150k.jpg" width="800"/></td> <td valign="bottom"> <p> Most Recent Melody: </p> <video src="https://github.com/greghab/greghab/assets/7407672/c6e360e6-ee87-477e-aaff-403f317ad0c2" /> </td></tr> </table>
+# #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> Most Recent Doodle: </p><img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg" width="800"/></td> <td valign="bottom"> <p> Most Recent Melody: </p> <video src="https://github.com/greghab/greghab/assets/7407672/c6e360e6-ee87-477e-aaff-403f317ad0c2" /> </td></tr> </table>
 
 
 #+begin_html
