@@ -111,9 +111,8 @@ A neighborly developer 🏕️, currently focusing on improving my discipline, e
     </blockquote>
 
   &ensp; &ensp; &ensp;
-  <blockquote style="text-indent: 40px;">
-  &ensp; &ensp; &ensp; “We can not solve our problems with the same level of thinking that created them” ― Albert Einstein 
-  </blockquote>
+  <code> “We can not solve our problems with the same level of thinking that created them” ― Albert Einstein 
+  </code>
 
   <ul>
   <li>
