@@ -111,7 +111,7 @@ A neighborly developer 🏕️, currently focusing on improving my discipline, e
     </blockquote>
 
 
-  &ensp;  <code>      “We can not solve our problems with the same level of thinking that created them” ― Albert Einstein </code>
+  <code>      “We can not solve our problems with the same level of thinking that created them” ― Albert Einstein </code>
 
     <blockquote>
     Nothing in reality persists to a force that relentless - anything in the way becomes altered.
