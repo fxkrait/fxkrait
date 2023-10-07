@@ -46,6 +46,22 @@ A neighborly developer 🏕️, currently focusing on improving my discipline, e
 #+end_html
 
 #+begin_html
+  <details>
+      <summary>
+    📻 Melody Mashup #2 📻
+    </summary>
+<table cellpadding="0">
+<tr style="padding: 0">
+<td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus/assets/7407672/041784be-e189-44a5-b6ea-4475088e6880" /></td>
+</tr>
+</table>
+</details>
+#+end_html
+
+
+
+
+#+begin_html
 
   <details>
       <summary>
