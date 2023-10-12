@@ -111,7 +111,11 @@ A neighborly human 🏕️, gazing out at what's out there 🌌🔭.
       <summary>
     🇷🇪 Most Recent: Doodle & Melody 🇷🇪
     </summary>
-<table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> Most Recent Doodle:</td> <td valign="bottom"> <p> Most Recent Melody: </p> </td></tr> <tr style="padding: 0"> <td valign="top"> <img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg" width="800"/></td> <td valign="bottom"> <video src="https://github.com/greghab/greghab/assets/7407672/c6e360e6-ee87-477e-aaff-403f317ad0c2" /> </td></tr> </table>
+<table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> Most Recent Doodle:</td> <td valign="bottom"> <p> Most Recent Melody: </p> </td></tr> <tr style="padding: 0"> <td valign="top"> <img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg" width="800"/></td> <td valign="bottom">
+
+ <a href="https://fxkrait.github.io/piletexodus-2023/">https://fxkrait.github.io/piletexodus-2023/</a>
+
+ </td></tr> </table>
 </details>
 #+end_html
 
