@@ -14,7 +14,7 @@ A neighborly human 🏕️, exploring what's out there 🌌🔭.
 <tr style="padding: 0">
 <td valign="bottom"> <img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg"/>
 </td>
-<td valign="bottom"> <video src="https://github.com/greghab/greghab/assets/7407672/31d400bf-6123-46e9-822c-889e8e56d5a1" />></td>
+<td valign="bottom"> <video controls preload="none" src="https://github.com/greghab/greghab/assets/7407672/31d400bf-6123-46e9-822c-889e8e56d5a1" />></td>
 </tr>
 </table>
 </details>
@@ -33,10 +33,10 @@ A neighborly human 🏕️, exploring what's out there 🌌🔭.
     </summary>
 <table cellpadding="0">
 <tr style="padding: 0">
-<td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/6554c25d-f37f-478e-bf61-46773c5d87dd" />></td>
-<td valign="bottom"> <video src="https://github.com/greghab/piletexodus-2023/assets/7407672/1a0cb3fe-bf24-4f53-84ff-128934a5144f" /></td>
-<td valign="bottom"> <video src="https://github.com/greghab/piletexodus/assets/7407672/124361fb-846f-4b10-a97e-29d5bdee52c8" /></td>
-<td valign="bottom"> <video src="https://github.com/greghab/piletexodus-2023/assets/7407672/dec81371-dbd9-49df-9311-89a04d1c45f8" /></td>
+<td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/6554c25d-f37f-478e-bf61-46773c5d87dd" />></td>
+<td valign="bottom"> <video controls preload="none" src="https://github.com/greghab/piletexodus-2023/assets/7407672/1a0cb3fe-bf24-4f53-84ff-128934a5144f" /></td>
+<td valign="bottom"> <video controls preload="none" src="https://github.com/greghab/piletexodus/assets/7407672/124361fb-846f-4b10-a97e-29d5bdee52c8" /></td>
+<td valign="bottom"> <video controls preload="none" src="https://github.com/greghab/piletexodus-2023/assets/7407672/dec81371-dbd9-49df-9311-89a04d1c45f8" /></td>
 </tr>
 </table>
 </details>
@@ -49,9 +49,9 @@ A neighborly human 🏕️, exploring what's out there 🌌🔭.
     </summary>
 <table cellpadding="0">
 <tr style="padding: 0">
-<td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus/assets/7407672/041784be-e189-44a5-b6ea-4475088e6880" /></td>
-<td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/7c7a8ccf-18dd-4077-9eae-b0b97b0e9569" /></td>
-<td valign="bottom"> <video src="https://github.com/fxkrait/piletexodus/assets/7407672/3f8e138f-e298-4c10-bde8-b0b383ff6b64" /></td>
+<td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus/assets/7407672/041784be-e189-44a5-b6ea-4475088e6880" /></td>
+<td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/7c7a8ccf-18dd-4077-9eae-b0b97b0e9569" /></td>
+<td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus/assets/7407672/3f8e138f-e298-4c10-bde8-b0b383ff6b64" /></td>
   </tr>
 </table>
 </details>
