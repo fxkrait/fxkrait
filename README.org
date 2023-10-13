@@ -1,7 +1,7 @@
 *** FXKrait
 Your next-door neighbor 🏕️ in the gated community 𓊏, but off the porch and off the rocker🦼. 🛸🌚 Searching out in the galaxy for those 5-headed creatures that I heard also rock with Emacs like we on Earth do. 🌌🔭.
 
-- 🖥️ (Currently) Gravitating Within 🛰️: Rust 🦀, Emacs 👾, Nix(OS) ❄️.
+🖥️ (Currently) Gravitating Within 🛰️: Rust 🦀, Emacs 👾, Nix(OS) ❄️.
 
 #+begin_quote
 🪅 ~Till I have more to espouse here...~ 🤻
