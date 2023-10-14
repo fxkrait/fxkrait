@@ -1,7 +1,7 @@
 *** FXKrait
 Your next-door neighbor 🏕️ in the gated community 𓊏, but off the porch and off the rocker🦼. 🛸🌚 Searching out in the galaxy for those 5-headed creatures that I heard also rock with Emacs like we on Earth do. 🌌🔭.
 
-🖥️ (Presently) Gravitationally Curious Towards REHNOS 🛰️: Rust 🦀, Emacs 👾, Haskell λ, Nix (OS) ❄️, visual art, music, jogging, meditation, and patient habitual progress tracking and sharing mechanisms (like pilétexodus).
+🖥️ (Presently) Gravitationally Curious Towards REHNOS 🛰️: Rust 🦀, Emacs 👾, Haskell λ, Nix (OS) ❄️, visual art, music, jogging, meditation, and patient habitual incremental progress tracking and sharing mechanisms (like pilétexodus).
 
 #+begin_quote
 🪅 ~Till I have more to espouse here...~ 🤻
