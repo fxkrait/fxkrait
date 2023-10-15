@@ -1,3 +1,13 @@
+*** FXKrait
+
+#+begin_quote
+"Progenerate the batons, for your own relay race."
+#+end_quote
+
+#+begin_quote
+🪅 ~Till I have more to espouse here...~ 🤻
+#+end_quote
+
 
 #+begin_html
 <details open>
