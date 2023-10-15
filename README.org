@@ -1,7 +1,7 @@
 *** FXKrait
 
 #+begin_quote
-"Progenerate the batons, then leave the track."
+"Progenerate the batons, and leave the track."
 #+end_quote
 
 #+begin_quote
