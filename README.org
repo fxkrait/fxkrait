@@ -1,7 +1,7 @@
 *** FXKrait
 
 #+begin_quote
-"Make your own baton, and run with it."
+"Progenerate a baton, and run with it."
 #+end_quote
 
 #+begin_quote
