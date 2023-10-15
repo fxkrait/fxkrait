@@ -4,6 +4,11 @@
 "Get off the beaten path, and wonder."
 #+end_quote
 
+#+begin_quote
+🪅 ~Until there is more to espouse...~ 🤻
+#+end_quote
+
+-------------
 
 #+begin_html
 <details open>
