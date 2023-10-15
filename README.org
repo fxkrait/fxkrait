@@ -1,7 +1,7 @@
 *** FXKrait
 
 #+begin_quote
-"Make a baton, and run with it." - Jonathan Blow
+"Make a baton, and run with it."
 #+end_quote
 
 #+begin_quote
