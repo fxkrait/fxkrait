@@ -1,4 +1,3 @@
-*** FXKrait
 
 #+begin_html
 <details open>
