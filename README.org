@@ -1,7 +1,7 @@
 *** FXKrait
 
 #+begin_quote
-"Get off the beaten path."
+"Get off the beaten path, and explore."
 #+end_quote
 
 #+begin_quote
