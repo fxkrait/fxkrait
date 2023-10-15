@@ -1,8 +1,7 @@
 *** FXKrait
 
-#+begin_quote
-"Get off the beaten path, and wonder."
-#+end_quote
+~"Get off the beaten path, and wonder."~
+
 
 #+begin_quote
 🪅 ~Until there is more to espouse...~ 🤻
