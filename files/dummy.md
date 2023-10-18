@@ -1,4 +1,8 @@
 
+[skillIssueWon'tFix-reduced-640x360-40percentQuality.webm](https://github.com/fxkrait/fxkrait/assets/7407672/6be9edb8-c58c-4139-ac60-2669780e508a)
+
+
+ 
 https://stackoverflow.com/questions/70073951/how-to-align-readme-stats-side-by-side-in-github
 
 <div style="display: flex; flex-direction: row;">
