@@ -1,4 +1,8 @@
 
+
+[haskellUseless-640x360-40Percent.webm](https://github.com/fxkrait/fxkrait/assets/7407672/0ec26e41-e410-4823-b02b-bde3f504f90f)
+
+
 [skillIssueWon'tFix-reduced-640x360-40percentQuality.webm](https://github.com/fxkrait/fxkrait/assets/7407672/6be9edb8-c58c-4139-ac60-2669780e508a)
 
 
