@@ -28,8 +28,6 @@
 # #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <img class="img" src="img/drawings-background-tiger-11-500x-pngcrush.png" width="800"/></td> <td valign="bottom"> <img class="img" src="img/made_with_emacs-inverted-75x.png"/></td></tr> </table>
 
 
-https://github.com/fxkrait/piletexodus-2023/assets/7407672/2d7cef66-8b56-4f2a-aa49-0738f4ac2e8
-
 
 #+begin_html
   <details>
