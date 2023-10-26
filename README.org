@@ -134,7 +134,7 @@
     🖍️ Most Recent: Marks 🖍️
     </summary>
 
-<img src=".images/lisplogo_warning2_128.png" align="right">
+<img src=".images/lisplogo_warning2_128.png" align="right" width="50">
 
     <blockquote>
     Out-authorize your brains' governor via employing your own sovereignty through repeated, intentioned, tracked, deliberate action, so that the brains' governor understands that we're going up THIS positive and growth rich way, regardless of whether the brain is comfortable with it or not. It'll figure out what's going on eventually, and get on-board with it. It can only remain sad, grumpy, in a bad mood, and a victim of circumstance, for so long.
@@ -145,7 +145,7 @@
 
 
 
- <img src="img/Testhask.png" width="100" align="right">
+ <img src="img/Testhask.png" width="50" align="right">
   
   <blockquote>
   Nothing in reality persists to a force that is relentless - anything in the way becomes altered by its' existence.
