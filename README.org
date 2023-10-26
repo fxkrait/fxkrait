@@ -21,6 +21,16 @@
 
 ----------------------
 
+
+#+begin_html
+<details open>
+  <summary>🖊️ Doodle Mashup 📓</summary>
+   <img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg" align="left"/>
+  <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/eec02ae6-6beb-47da-94a6-49bc78f0b45a" align="right"/>
+</details>
+#+end_html
+
+
 #+begin_html
 <details open>
   <summary>🖊️ Doodle Mashup 📓</summary>
@@ -31,7 +41,6 @@
 <td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/eec02ae6-6beb-47da-94a6-49bc78f0b45a" /></td>
 </tr>
 </table>
-</details>
 </details>
 #+end_html
 
