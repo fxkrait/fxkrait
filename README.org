@@ -156,6 +156,10 @@
     </blockquote>
 
   &emsp; &emsp; <code>“We can not solve our problems with the same level of thinking that created them” ― Albert Einstein</code>
+
+
+
+ <img src="img/Testhask.png" width="100" align="right">
   
   <blockquote>
   Nothing in reality persists to a force that is relentless - anything in the way becomes altered by its' existence.
