@@ -8,9 +8,11 @@
 🪅 ~Until there is more to espouse...~ 🤻
 #+end_quote
 
+#+HTML: &nbsp;
+
+
 ----------------------
 
-# #+HTML: &nbsp;
 
 
 # https://www.lisperati.com/logo.html
