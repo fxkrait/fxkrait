@@ -11,7 +11,7 @@
 
  #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
-#+HTML: <img src="img/2023-04-24_00-54-42_gnu_color.png" width="50" align="right"> 
+#+HTML: <img src="img/2023-04-24_00-54-42_gnu_color.png" width="45" align="right"> 
 
 #+begin_html
 <details>
