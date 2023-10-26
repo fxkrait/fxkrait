@@ -3,7 +3,7 @@
 
   #+HTML: &emsp; &emsp; &emsp;  <code> Get off the beaten path, and wonder. Permeate across the self-selecting filter, and suffuse within awe.</code>
 
- #+HTML:  <img src="img/lisp-lizard-with-text.svg" width="80" align="right">  <img src="img/haskell-98-logo-png-transparent.png" width="50" align="right">
+ #+HTML:  <div> <img src="img/lisp-lizard-with-text.svg" width="80" align="right">  <img src="img/haskell-98-logo-png-transparent.png" width="50" align="right"></div> 
 
  #+HTML: <blockquote> &emsp; <code>🪅 Until there is more to espouse...🤻</code> </blockquote>
 
