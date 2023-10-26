@@ -14,7 +14,8 @@
 #+end_quote
 
 
-[[file:img/lisp-lizard-with-text.svg]]
+
+#+HTML: <img src="img/lisp-lizard-with-text.svg" width="200">
 
 ----------------------
 
