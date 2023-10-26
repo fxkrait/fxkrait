@@ -6,23 +6,15 @@
 
 
 
-#+begin_html
-
-<table cellpadding="0"> <tr style="padding: 0">
-<td valign="bottom"> <ul> <li> <p> - Word of the century:
-      <a href="https://www.merriam-webster.com/dictionary/autodidact">autodidact</a>  </p> </li> </ul>  <code> 🪅 Until there is more to espouse... </code> 🤻
- </p> </td>
-
-<td valign="bottom"> <img class="img" src=".images/lisplogo_warning2_128.png" width="100"/>  </td>
- 
-</tr> </table>
-#+end_html
+#+HTML: <img src=".images/lisplogo_warning2_128.png" align="right">
 
 
 - Word of the century: [[https://www.merriam-webster.com/dictionary/autodidact][autodidact]]
 #+begin_quote
 🪅 ~Until there is more to espouse...~ 🤻
 #+end_quote
+
+
 
 
 -------------
