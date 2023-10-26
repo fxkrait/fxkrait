@@ -3,13 +3,13 @@
 
   #+HTML: &emsp; &emsp; &emsp;  <code> Get off the beaten path, and wonder. Permeate across the self-selecting filter, and suffuse within awe.</code>
 
- #+HTML:<img src="img/lisp-lizard-with-text.svg" width="80" align="right">  <img src="img/haskell-98-logo-png-transparent.png" width="50" align="right">
+ #+HTML:<img src="img/lisp-lizard-with-text.svg" width="70" align="right">  <img src="img/haskell-98-logo-png-transparent.png" width="50" align="right">
 
 
 
-#+HTML: <blockquote> &emsp; <code>🪅 Until there is more to espouse...🤻</code> </blockquote>
+# #+HTML: <blockquote> &emsp; <code>🪅 Until there is more to espouse...🤻</code> </blockquote>
 
-#  #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
+#+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
 #+HTML: <img src="img/2023-04-24_00-54-42_gnu_color.png" width="45" align="right"> 
 
