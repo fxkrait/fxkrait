@@ -2,13 +2,7 @@
 
 ~Get off the beaten path, and wonder. Permeate across the self-selecting filter, and suffuse within awe.~
 
-- Resolve your daddy issues, by ceasing to habitually gaze outwards for daddy to save you. You are capable. The Father and I are one. Resolve to gather the strength inwardly, to attest outwardly for what you enact. If unsure: simplify, remain open, and act on a smaller/reduced vision. The big stuff can come later - after you've thoroughly sweated and exhausted the small stuff lying before you. All masters were once novices, all living were once dead - or should that last statement be inverted?
-
-
  #+HTML: <img src="img/lisp-lizard-with-text.svg" width="80" align="right">
-
-
-- Word of the century: [[https://www.merriam-webster.com/dictionary/autodidact][autodidact]]. Act with increased urgency and focus, ⛓️ linking your action to your vision 🧿
 
 #+begin_quote
 🪅 ~Until there is more to espouse...~ 🤻
@@ -89,6 +83,26 @@
  <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  Progenerate your own narrative </p> </td> <td valign="bottom"> <p>  Give up weak attractors for strong attractors </p </td> <td valign="bottom"> <p>  You only get ready by starting </p </td> </td> <td valign="bottom"> <p>  🏔️📿</p> </td> </tr> </table>
 </details>
 #+end_html
+
+
+#+begin_html
+
+  <details>
+      <summary>
+   📜 <a href="https://www.merriam-webster.com/dictionary/ken">Ken</a> Lineament #2 📜
+    </summary>
+   <ul>
+   <li> <p> Resolve your daddy issues, by ceasing to habitually gaze outwards for daddy to save you. You are capable. The Father and I are one. Resolve to gather the strength inwardly, to attest outwardly for what you enact. If unsure: simplify, remain open, and act on a smaller/reduced vision. The big stuff can come later - after you've thoroughly sweated and exhausted the small stuff lying before you. All masters were once novices, all living were once dead - or should that last statement be inverted? </p> </li>
+<li> <p> Word of the century: [[https://www.merriam-webster.com/dictionary/autodidact][autodidact]]. Act with increased urgency and focus, ⛓️ linking your action to your vision 🧿 </li> </p>
+
+</ul>
+   
+</details>
+#+end_html
+
+
+- 
+
 
 
 
