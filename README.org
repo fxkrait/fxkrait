@@ -8,7 +8,7 @@
  #+HTML: <img src="img/lisp-lizard-with-text.svg" width="80" align="right">
 
 
-- Word of the century: [[https://www.merriam-webster.com/dictionary/autodidact][autodidact]]. Act with increased urgency and focus, and ⛓️ link your action to your vision. 🧿
+- Word of the century: [[https://www.merriam-webster.com/dictionary/autodidact][autodidact]]. Act with increased urgency and focus, ⛓️ link your action to your vision. 🧿
 
 #+begin_quote
 🪅 ~Until there is more to espouse...~ 🤻
