@@ -19,6 +19,8 @@
 <details>
   <summary> <code> ☁️ Other Things... ☁️ </code> </summary>
 
+<br>
+
 <details>
   <summary>🖊️ Doodle Mashup 📓</summary>
    <table cellpadding="0">
