@@ -10,14 +10,17 @@
 
 
 - Word of the century: [[https://www.merriam-webster.com/dictionary/autodidact][autodidact]]
+
 #+begin_quote
 🪅 ~Until there is more to espouse...~ 🤻
 #+end_quote
 
 
+#+HTML: &nbsp;
 
 
--------------
+----------------------
+
 
 #+begin_html
 <details open>
