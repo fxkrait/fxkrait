@@ -13,6 +13,9 @@
 🪅 ~Until there is more to espouse...~ 🤻
 #+end_quote
 
+
+[[file:img/lisp-lizard-with-text.svg]]
+
 ----------------------
 
 #+begin_html
