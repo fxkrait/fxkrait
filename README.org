@@ -15,7 +15,7 @@
 
 
 
-#+HTML: <img src="img/lisp-lizard-with-text.svg" width="200">
+#+HTML: <img src="img/lisp-lizard-with-text.svg" width="100">
 
 ----------------------
 
