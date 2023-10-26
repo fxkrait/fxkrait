@@ -29,7 +29,6 @@
 # #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <img class="img" src="img/drawings-background-tiger-11-500x-pngcrush.png" width="800"/></td> <td valign="bottom"> <img class="img" src="img/made_with_emacs-inverted-75x.png"/></td></tr> </table>
 
 
-
 #+begin_html
   <details>
       <summary>
@@ -37,6 +36,7 @@
     </summary>
 <table cellpadding="0">
 <tr style="padding: 0">
+<td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus/assets/7407672/901b7409-3adb-4402-a9e7-5afed97222e4" /></td>
 <td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/2d7cef66-8b56-4f2a-aa49-0738f4ac2e8a" /></td>
 <td valign="bottom"> <video controls preload="none" src="https://github.com/greghab/piletexodus-2023/assets/7407672/1a0cb3fe-bf24-4f53-84ff-128934a5144f" /></td>
 <td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/588b4978-4df3-4363-a43b-e4e31efb9911" /></td>
