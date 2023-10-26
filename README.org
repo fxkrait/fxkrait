@@ -9,8 +9,8 @@
 #+begin_html
 
 <table cellpadding="0"> <tr style="padding: 0">
-<td valign="bottom"> <p> - Word of the century:
-      <a href="https://www.merriam-webster.com/dictionary/autodidact">autodidact</a>  </p>   <p> 🪅 ~Until there is more to espouse...~ 🤻
+<td valign="bottom"> <ul> <li> <p> - Word of the century:
+      <a href="https://www.merriam-webster.com/dictionary/autodidact">autodidact</a>  </p> </li> </ul>  <code> 🪅 Until there is more to espouse... </code> 🤻
  </p> </td>
 
 <td valign="bottom"> <img class="img" src=".images/lisplogo_warning2_128.png" width="100"/>  </td>
