@@ -23,7 +23,7 @@
 
 #+begin_html
 <details>
-  <summary> Things... </summary>
+  <summary> ☁️ Things... ☁️ </summary>
 
 <details>
   <summary>🖊️ Doodle Mashup 📓</summary>
