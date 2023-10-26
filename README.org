@@ -101,10 +101,6 @@
 #+end_html
 
 
-- 
-
-
-
 
 #+begin_html
 <!--- https://stackoverflow.com/questions/66525452/is-there-any-way-to-show-collapsible-contents-in-github-readme-org-org-mode --->
