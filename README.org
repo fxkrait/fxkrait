@@ -22,7 +22,7 @@
 
 
 #+begin_html
-<details open>
+<details>
   <summary>🖊️ Doodle Mashup 📓</summary>
    <table cellpadding="0">
 <tr style="padding: 0">
