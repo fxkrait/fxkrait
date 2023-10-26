@@ -9,7 +9,7 @@
 
 #  #+HTML: <blockquote> &emsp; <code>🪅 Until there is more to espouse...🤻</code> </blockquote>
 
- #+HTML: &emsp;  <code>🪅 Until there is more to espouse...🤻</code>
+ #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
 #+HTML: <img src="img/2023-04-24_00-54-42_gnu_color.png" width="40" align="right"> 
 
