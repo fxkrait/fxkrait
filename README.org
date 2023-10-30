@@ -19,6 +19,13 @@
 <details>
   <summary> <code> ☁️ Other Things... ☁️ </code> </summary>
 
+
+  <ul>
+  <li> <code>"When the limestone of imperative programming has worn away, the granite of functional programming will be revealed underneath."</code>
+
+  </li>
+  </ul>
+
 <br>
 
 <details>
