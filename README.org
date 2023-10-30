@@ -19,14 +19,11 @@
 <details>
   <summary> <code> ☁️ Other Things... ☁️ </code> </summary>
 
+  <br>
 
-  <ul>
-  <li> <code>"When the limestone of imperative programming has worn away, the granite of functional programming will be revealed underneath."</code>
 
-  </li>
-  </ul>
+<code>"When the limestone of imperative programming has worn away, the granite of functional programming will be revealed underneath."</code>
 
-<br>
 
 <details>
   <summary>🖊️ Doodle Mashup 📓</summary>
