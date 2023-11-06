@@ -22,52 +22,25 @@
   <br>
 
 <details>
-  <summary>🖊️ Doodle Mashup 📓</summary>
+  <summary>🖊️ Doodle and <a href="https://fxkrait.github.io/piletexodus-2023/">Melody</a> Mashup 📓</summary>
    <table cellpadding="0">
 <tr style="padding: 0">
+<td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/2773cb62-364e-45c6-8dfb-3e234c1ffe00" /></td>
 <td valign="bottom"> <img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg"/>
 </td>
 <td valign="bottom">  <img src="img/uiua-logo.png" width="40" align="right">  <img src="img/Rust_(programming_language)-Logo.wine.svg" width="90" align="right"> <img src="img/300px-APL_logo.png" width="40" align="right">
   <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/eec02ae6-6beb-47da-94a6-49bc78f0b45a" /></td>
+
+
 </tr>
 </table>
-</details>
-
-
-  <details>
-      <summary>
-      📻 <a href="https://fxkrait.github.io/piletexodus-2023/">Melody</a> Mashup 📻
-    </summary>
-<table cellpadding="0">
-<tr style="padding: 0">
-<td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/2d7cef66-8b56-4f2a-aa49-0738f4ac2e8a" /></td>
-<td valign="bottom"> <video controls preload="none" src="https://github.com/greghab/piletexodus-2023/assets/7407672/1a0cb3fe-bf24-4f53-84ff-128934a5144f" /></td>
-<td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/588b4978-4df3-4363-a43b-e4e31efb9911" /></td>
-<td valign="bottom"> <video controls preload="none" src="https://github.com/greghab/piletexodus/assets/7407672/124361fb-846f-4b10-a97e-29d5bdee52c8" /></td>
-</tr>
-</table>
-</details>
-
-
-  <details>
-      <summary>
-      📻 <a href="https://fxkrait.github.io/piletexodus-2023/">Melody</a> Mashup #2 📻 
-    </summary>
-<table cellpadding="0">
-<tr style="padding: 0">
-<td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus/assets/7407672/901b7409-3adb-4402-a9e7-5afed97222e4" /></td>
-<td valign="bottom"> <video controls preload="none" src="https://github.com/greghab/greghab/assets/7407672/31d400bf-6123-46e9-822c-889e8e56d5a1" /></td>
-<td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/6554c25d-f37f-478e-bf61-46773c5d87dd" /></td>
-<td valign="bottom"> <video controls preload="none" src="https://github.com/greghab/piletexodus-2023/assets/7407672/dec81371-dbd9-49df-9311-89a04d1c45f8" /></td>
-  </tr>
-</table>
-</details>
-
-
 <ul>
 <li> <a href="http://radmars.com/superkaijudunkcity/submission/data/audio/ld38-level1.ogg">Other great stuff</a> </li>
-
 </ul>
+</details>
+
+
+
 
 
   <details>
