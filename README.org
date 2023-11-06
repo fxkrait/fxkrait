@@ -17,7 +17,7 @@
 
 #+begin_html
 <details>
-  <summary> <code> ☁️ Other Things... ☁️ </code> </summary>
+  <summary> <code> ☁️ Other things... ☁️ </code> </summary>
 
   <br>
 
