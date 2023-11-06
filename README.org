@@ -28,7 +28,7 @@
 <td valign="bottom"> <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/2773cb62-364e-45c6-8dfb-3e234c1ffe00" /></td>
 <td valign="bottom"> <img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg"/>
 </td>
-<td valign="bottom">  <img src="img/uiua-logo.png" width="40" align="right">  <img src="img/Rust_(programming_language)-Logo.wine.svg" width="90" align="right"> <img src="img/300px-APL_logo.png" width="40" align="right">
+<td valign="bottom">  <img src="img/uiua-logo.png" width="30" align="right">  <img src="img/Rust_(programming_language)-Logo.wine.svg" width="70" align="right"> <img src="img/300px-APL_logo.png" width="30" align="right">
   <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/eec02ae6-6beb-47da-94a6-49bc78f0b45a" /></td>
 
 
