@@ -30,7 +30,7 @@
 <li> <a href="http://radmars.com/superkaijudunkcity/submission/data/audio/ld38-level1.ogg">Other great stuff</a> </li>
 </ul>
 <img src="img/nasa-logo-transparent-background-21.png" width="40" align="right">
-<img src="img/nasa-text.png" width="80" align="right">
+<img src="img/nasa-text.png" width="70" align="right">
 <img src="img/MEDICI_Logo_2019.png" width="40" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/f9fa21c9-7ecd-447d-984b-8e6457a8ce48" /></td>
 <td valign="bottom"> <img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg"/>
