@@ -21,7 +21,7 @@
 
   <br>
 
-<details>
+<details open>
   <summary>🖊️ Doodle and <a href="https://fxkrait.github.io/piletexodus-2023/">Melody</a> Mashup 📓</summary>
    <table cellpadding="0">
 <tr style="padding: 0">
