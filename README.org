@@ -29,7 +29,7 @@
 <ul>
 <li> <a href="http://radmars.com/superkaijudunkcity/submission/data/audio/ld38-level1.ogg">Other great stuff</a> </li>
 </ul>
-<video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/2773cb62-364e-45c6-8dfb-3e234c1ffe00" /></td>
+<video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/f9fa21c9-7ecd-447d-984b-8e6457a8ce48" /></td>
 <td valign="bottom"> <img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg"/>
 </td>
 <td valign="bottom">  <img src="img/uiua-logo.png" width="30" align="right">  <img src="img/Rust_(programming_language)-Logo.wine.svg" width="70" align="right"> <img src="img/300px-APL_logo.png" width="30" align="right">
