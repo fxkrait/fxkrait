@@ -53,29 +53,6 @@
  <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  Progenerate your own narrative </p> </td> <td valign="bottom"> <p>  Give up weak attractors for strong attractors </p </td> <td valign="bottom"> <p>  You only get ready by starting </p </td> </td> <td valign="bottom"> <p>  🏔️📿</p> </td> </tr> </table>
 </details>
 
-  <details>
-      <summary>
-   📜 <a href="https://www.merriam-webster.com/dictionary/ken">Ken</a> Lineament #2 📜
-    </summary>
-   <ul>
-   <li> <p> Resolve your daddy issues, by ceasing to habitually gaze outwards for a daddy to save you. You are capable. The Father and I are one. Resolve to gather the strength inwardly, to attest outwardly for what you enact. If unsure: simplify, remain open, and act on a smaller/reduced vision. The big stuff can come later - after you've thoroughly sweated through and exhausted the small stuff lying before you. All masters were once novices, all sages once in cages, all living once dead - or should that last statement be inversed? </p> </li>
-
-<img src="img/Haskellwiki_logo_big.png" align="right" width="30">
-
-  <li> <p> Word of the century: <a href="https://www.merriam-webster.com/dictionary/autodidact">autodidact</a>. Act with increased urgency, focus, and rigor. ⛓️ Link your actions to your vision. 🧿  </p> </li>
-
-<li> <p> 🪦 Everything you love is mortal ⚱️Put your fucking foot down 🥾, stomp some bones in 🦴, and pull it off.  Don't let what things appear to be limit you. 🫀 Believe in the ability for things to change. Forsake the good, for the better. Make every moment a expression of who and what you are - stay tapped into what lies beyond circumstance, and live it with vitality. </p> </li>
-
-
-
-
-<li> <code>"When the limestone of imperative programming has worn away, the granite of functional programming will be revealed underneath."</code> </li>
-
-
-</ul>
-   
-</details>
-
 
 <!--- https://stackoverflow.com/questions/66525452/is-there-any-way-to-show-collapsible-contents-in-github-readme-org-org-mode --->
   <details>
