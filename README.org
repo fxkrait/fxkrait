@@ -17,7 +17,7 @@
 
 #+begin_html
 <details>
-  <summary> <code> ☁️ Being busy is a form of laziness - lazy thinking and indiscriminate action. ☁️ </code> </summary>
+  <summary> <code><b> ☁️ Being busy is a form of laziness - lazy thinking and indiscriminate action. ☁️ </b></code> </summary>
 
   <br>
 
