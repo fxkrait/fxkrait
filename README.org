@@ -9,7 +9,7 @@
 
 
 
-#+HTML: <blockquote> &emsp; <code>Presently exploring: Rust🦀 (+ bevy) game dev, and Functional Programming & Combinators🧮</code> </blockquote>
+#+HTML: <blockquote> &emsp; <code>Presently exploring: Rust 🦀 (+bevy) game dev, and Functional Programming & Combinators 🧮</code> </blockquote>
 
 # #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
