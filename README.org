@@ -101,6 +101,19 @@
 </details>
 
 
+
+ <details>
+      <summary>
+    🕷️ For those that think I'm off my rocker, and need to stop it. 🕷️
+    </summary>
+
+    <p>  Relatively speaking, there are Netflix engineers wearing sex collars to public tech conferences, and they still pull in money. So me leave me alone, and take your grubby hands and put them into those collar rings. </p>
+
+     <img class="img" src=".images/sexCollarsNetflixEngineers.jpeg" width="400"/>   
+
+ </details>
+
+
  <details>
       <summary>
     🖍️ Most Recent: Marks 🖍️
@@ -155,16 +168,6 @@
 
 
 # #+HTML: <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p> Most Recent Doodle: </p><img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg" width="800"/></td> <td valign="bottom"> <p> Most Recent Melody: </p> <video src="https://github.com/greghab/greghab/assets/7407672/c6e360e6-ee87-477e-aaff-403f317ad0c2" /> </td></tr> </table>
-
-
-#+begin_html
-
-#+end_html
-
-
-#+begin_html
- 
-#+end_html
 
 |------------------------------+-----------+-----------+----------+-----------+---------------+-----------+-------------------------------+-----------+------------+------------+-----------+--------------+-------------+---------------+-------------|
 | [[file:README.org][Link]]=Proof-of-Work Available | 🎇Weik🎇 | 🫧Keit🫧 | 🫀Aki🫀 | 🐲Prey🐲 | 🌴Eskapade🌴 | 🐚لَحني🐚 | 🥀Dahin-mi🥀                 | 🥋Kalt🥋 | 🔊Lunar🪐 | 🪂Gyana🪂 | 🌋Kies🌋 | 🪆Pushups🪆 | 🪅Recall🪅 | ♟️P-Streak♟️ | 🌁Schlaf🌁 |
