@@ -9,7 +9,7 @@
 
 
 
-#+HTML: <blockquote> &emsp; <code>Enspiriting Napolean, Hitler, & Alexander, and re-engaging their visions more towards the Buddha.</code> </blockquote>
+#+HTML: <blockquote> &emsp; <code>Enspiriting Napolean, Hitler, & Alexander, and re-engaging their visions towards the Buddha.</code> </blockquote>
 
 # #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
