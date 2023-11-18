@@ -9,7 +9,7 @@
 
 
 
-#+HTML: <blockquote> &emsp; <code>Enspiriting one-pointedness of Napolean, Hitler, Alexander, & re-attuning towards Buddha.</code> </blockquote>
+#+HTML: <blockquote> &emsp; <code>Enspiriting the one-pointedness of Alexander, 'nd re-attuning towards Buddha.</code> </blockquote>
 
 # #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
