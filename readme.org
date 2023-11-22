@@ -9,7 +9,7 @@
 
 
 
-#+HTML: <blockquote> &emsp; <code>Enspiriting one-pointedness, and re-attuning towards the Buddha.</code> </blockquote>
+#+HTML: <blockquote> &emsp; <code>Enspiriting one-pointedness, then re-attuning. Design before Engineering.</code> </blockquote>
 
 # #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
