@@ -9,7 +9,7 @@
 
 
 
-#+HTML: <blockquote> &emsp; <code>Enspirit one-pointedness, then re-attune. Design before Engineering. Faith and vision.</code> </blockquote>
+#+HTML: <blockquote> &emsp; <code>Enspirit one-pointedness, then expand and re-attune. Design before Engineering. Faith and vision.</code> </blockquote>
 
 # #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
