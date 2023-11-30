@@ -36,7 +36,7 @@
 
 
 <td valign="bottom"> 
-<img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg" width="200"  height="100"/>
+<img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg" width="100"  height="50"/>
 <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/f9fa21c9-7ecd-447d-984b-8e6457a8ce48" />
 
 </td>
