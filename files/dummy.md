@@ -1,4 +1,8 @@
 
+[11-30-23.short-1.21x.webm](https://github.com/fxkrait/fxkrait/assets/7407672/244384a3-1011-4896-8fa2-c46b8a718632)
+
+[elonMusk.webm](https://github.com/fxkrait/fxkrait/assets/7407672/a3d6000e-9fc3-497c-9785-0d0bcbecf27a)
+
 
 [500daysInUCLA2.webm](https://github.com/fxkrait/fxkrait/assets/7407672/eec02ae6-6beb-47da-94a6-49bc78f0b45a)
 
