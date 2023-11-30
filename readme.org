@@ -29,7 +29,7 @@
 <img src="img/nasa-logo-transparent-background-21.png" width="40" align="right">
 <img src="img/nasa-text.png" width="75" align="right">
 <img src="img/MEDICI_Logo_2019.png" width="40" align="right">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/a3d6000e-9fc3-497c-9785-0d0bcbecf27a" /></td>
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/ba08d8c4-bb69-4963-a4eb-d6837598cecd" /></td>
 
 
 <td valign="bottom"> 
