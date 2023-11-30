@@ -26,9 +26,6 @@
    <table cellpadding="0">
 <tr style="padding: 0">
 <td valign="bottom">
-<ul>
-<li> <a href="http://radmars.com/superkaijudunkcity/submission/data/audio/ld38-level1.ogg">Other great stuff</a> </li>
-</ul>
 <img src="img/nasa-logo-transparent-background-21.png" width="40" align="right">
 <img src="img/nasa-text.png" width="75" align="right">
 <img src="img/MEDICI_Logo_2019.png" width="40" align="right">
@@ -36,6 +33,9 @@
 
 
 <td valign="bottom"> 
+<ul>
+<li> <a href="http://radmars.com/superkaijudunkcity/submission/data/audio/ld38-level1.ogg">Other great stuff</a> </li>
+</ul>
 <img class="img" src="img/drawings-background-tiger-12.1-500x-jpegoptim-150k.jpg" width="100"  height="50" align="right"/>
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/244384a3-1011-4896-8fa2-c46b8a718632" />
 
