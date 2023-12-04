@@ -9,7 +9,7 @@
 
 
 
-#+HTML: <blockquote> &emsp; <code>Enspirit one-pointedness, expand & re-attune. Design before Engineering. Faith & Vision.</code> </blockquote>
+#+HTML: <blockquote> &emsp; <code>To chronically complain, is to commit yourself wholeheartedly to that which you distate most.</code> </blockquote>
 
 # #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
