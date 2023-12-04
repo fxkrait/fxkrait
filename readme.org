@@ -17,7 +17,7 @@
 
 #+begin_html
 <details>
-  <summary> <code>🪅 Train your environment heedfully, imbuing your dreams, then guide others. ⛲🤻</code> </summary>
+  <summary> <code>🪅 Train your environment heedfully, imbuing your dreams, then dream others' dreams. ⛲🤻</code> </summary>
 
   <br>
 
