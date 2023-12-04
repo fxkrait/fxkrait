@@ -9,7 +9,7 @@
 
 
 
-#+HTML: <blockquote> &emsp; <code>Chronic complaining goads maximmal distate, eschewing velocity, responsibility, and transcendence.</code> </blockquote>
+#+HTML: <blockquote> &emsp; <code>Chronic complaining goads maximmal distate, eschewing velocity, responsibility, transcendence.</code> </blockquote>
 
 # #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
