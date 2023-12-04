@@ -17,7 +17,7 @@
 
 #+begin_html
 <details>
-  <summary> <code>🪅Train your environment heedfully, imbuing your dreams, then help others undulate⛲🤻</code> </summary>
+  <summary> <code>🪅Train your environment heedfully, imbuing your dreams⛲ then help others undulate🤻</code> </summary>
 
   <br>
 
