@@ -62,7 +62,7 @@
  <table cellpadding="0"> <tr style="padding: 0"> <td valign="top"> <p>  Progenerate your own narrative </p> </td> <td valign="bottom"> <p>  Give up weak attractors for strong attractors </p </td> <td valign="bottom"> <p>  You only get ready by starting </p </td> </td> <td valign="bottom"> <p>  🏔️📿</p> </td> </tr> </table>
 <ul>
 <li>
-<p> If you don't know what to do, analyze what not to do, and don't do those things you shouldn't do that give bad outcomes, and then repeat this process for the rest of your life, retaining and building off of the knowledge of the previous iterations, and incorporating new experiences and data, so as to get the outcomes you actually desire, eventually. You will eventually converge towards that which you desire, and gradually remove that which you do not. You could say, this is a framework to know what to do. So we could say, you actually do know what to do, always. Or atleast you always know the next step, no matter how small it may be. </p>
+<p> If you do not know what to do, analyze what not to do, and do not do those things you should not do that give bad outcomes, and then repeat this process for the rest of your life, retaining and building off of the knowledge of the previous iterations, and incorporating new experiences and data, so as to get the outcomes you actually desire, eventually. You will eventually converge towards that which you desire, and gradually remove that which you do not. You could say, this is a framework to know what to do. So we could say, you actually do know what to do, always. Or at least you always know the next step, no matter how small it may be. </p>
 </li>
 </ul>
 
