@@ -9,7 +9,7 @@
 
 
 
-#+HTML: <blockquote> &emsp; <code>🛑 Stop rewarding your bad behavior. Behave responsibly. Be content with a genuine effort. </code> </blockquote>
+#+HTML: <blockquote> &emsp; <code>🛑Stop rewarding your bad behavior. Behave responsibly. Be content with a genuine effort. </code> </blockquote>
 
 # #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
