@@ -1,4 +1,8 @@
 
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=☄️FXKrait%20Bosheit%20Takoj〽️&fontAlign=50&stroke=DDECDD&strokeWidth=6)
+
+
+
 [11-30-23.short-1.21x.webm](https://github.com/fxkrait/fxkrait/assets/7407672/244384a3-1011-4896-8fa2-c46b8a718632)
 
 [elonMusk.webm](https://github.com/fxkrait/fxkrait/assets/7407672/a3d6000e-9fc3-497c-9785-0d0bcbecf27a)
