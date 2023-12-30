@@ -14,18 +14,20 @@
 <tr style="padding: 0">
 
 <td valign="bottom">
-<video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/a45033ef-f575-4fb4-922f-32ef32e60434" /></td>
-
-
-<td valign="bottom"> 
-<video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/008cd898-4a76-49f6-9c00-b27368d638e6" /></td>
+  <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/d465124e-2992-411b-8ff7-44eb89746907" /></td>
 
 <td valign="bottom">
 <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/652dc92d-f80c-4684-bcbf-51b61490d4c7" /></td>
 
 
 <td valign="bottom">
-  <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/d465124e-2992-411b-8ff7-44eb89746907" /></td>
+<video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/a45033ef-f575-4fb4-922f-32ef32e60434" /></td>
+
+
+<td valign="bottom"> 
+<video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/008cd898-4a76-49f6-9c00-b27368d638e6" /></td>
+
+
 
 
 </tr>
