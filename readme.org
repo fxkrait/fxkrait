@@ -25,7 +25,7 @@
 
 
 <td valign="bottom">
-  <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/7aa10310-bfbf-436f-ba3e-c26e1b90676b" /></td>
+  <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/d465124e-2992-411b-8ff7-44eb89746907" /></td>
 
 
 </tr>
