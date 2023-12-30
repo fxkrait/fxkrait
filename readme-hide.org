@@ -17,11 +17,11 @@
 
 
 <td valign="bottom"> 
-<video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/2ed9c8f1-4333-44b2-994e-109a27f08018" />
+<video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/008cd898-4a76-49f6-9c00-b27368d638e6" />
 
 </td>
 <td valign="bottom">
-  <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/0eb15c0d-1ccb-41c5-8d69-8fbfa9106af7" /></td>
+  <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/a45033ef-f575-4fb4-922f-32ef32e60434" /></td>
 
 <td valign="bottom">
   <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/7aa10310-bfbf-436f-ba3e-c26e1b90676b" /></td>
