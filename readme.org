@@ -44,7 +44,7 @@
 # λ •
   #+HTML: λ &emsp; &emsp; &emsp;  <code>🛣️ Get off the beaten path, and wonder. Permeate across the self-selecting filter, and suffuse within awe</code>
 
- #+HTML:<img src="img/GNU_Guile_logo.svg" width="70" align="right">  <img src="img/Guix.png" width="50" align="right">
+ #+HTML:<img src="img/cargo.png" width="70" align="right">  <img src="img/NixOS_logo.svg" width="50" align="right">
 
 
 
