@@ -26,6 +26,7 @@
 
 
 <td valign="bottom">
+<img src="img/EFF-logo-lockup-reverse.png" width="50" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/piletexodus-2023/assets/7407672/a45033ef-f575-4fb4-922f-32ef32e60434" /></td>
 
 
