@@ -1,6 +1,4 @@
 # *** ☄️FXKrait〽️
-:PROPERTIES:
-:END:
 
 #+begin_html
 <img src="img/fxkrait.svg" width="300" align="left">
