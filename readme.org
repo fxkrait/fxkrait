@@ -21,7 +21,11 @@
 
 ~(Omar Suleiman): The sanctity of a human being, the sanctity of just one person, is greater than the sanctity of any place of worship to us. So the sanctity of one individual in Gaza, or one individual in Jerusalem, is greater to us than the sanctity of a place of worship. But it is all certainly interconnected. (Lex Fridman) That's a really powerful idea - the value of a human being is greater than even the Al-Aqsa Mosque. So that's a foundational idea for Islam? (Suleiman) The Prophet Muhammad, peace be upon him, says to the Kaaba itself that the value of a believer's dignity and honor, is greater than the value of the structure itself.~
 
-~The Triratna (the Three Jewels) of Buddhism, are the Buddha, the Dhamma, and the Sangha. The Dhamma is the teaching, the right way, the correct way, the noble way, the way of peace, the way we should go. The Buddha is the human who achieved it, showing that it's possible to comphrend and live the Dhamma for us mortals - it's not a philosophy, it's an actuality. And the Sangha is the integration of the Buddha and those who understand the Dhamma, with those who are not the Buddha and with those who do not understand the Dhamma. It's the link, to make sure we all make it, and we all excel together. Humanity does not get divided, we go forward together, and all prosper in our shared knowledge and understanding, and we go forward with the knowledge of the Dhamma.~
+
+~The Triratna (the Three Jewels) of Buddhism, are the Buddha, the Dhamma, and the Sangha.~
+- ~The Dhamma is the teaching, the right way, the correct way, the noble way, the way of peace, the way we should go.~
+- ~The Buddha is the human who achieved it, showing that it's possible to comphrend and live the Dhamma for us mortals - it's not a philosophy, it's an actuality.~
+- ~And the Sangha is the integration of the Buddha and those who understand the Dhamma, with those who are not the Buddha and with those who do not understand the Dhamma. It's the link, to make sure we all make it, and we all excel together. Humanity does not get divided, we go forward together, and all prosper in our shared knowledge and understanding, and we go forward with the knowledge of the Dhamma.~
 
 #+begin_html
    <table cellpadding="0">
