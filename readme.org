@@ -5,7 +5,7 @@
 #+end_html
 
 
-~🪜 Guard Rails: Generally Avoid the Extremes. Remember Our Humanity. The Arena > Critic. Win/Win > Zero/Sum. Traverse beyond local maximas. Know all things pass. Let some go, to focus, and not be spread thin. 🤻~
+~🪜 Guard Rails: Avoid the Extremes. Respect Humanity. Fighter > Critic. Win/Win > Zero/Sum. Traverse beyond local maximas. Know all things pass. Let some go, to focus, and not be spread thin. 🤻~
 
 #+begin_html
    <table cellpadding="0">
