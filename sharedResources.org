@@ -1,8 +1,6 @@
 *** People I like
 **** Design
 - [[https://wiki.xxiivv.com/site/home.html][100 Rabbits]]
-**** Defenders of Humanity and Freedom
-- Elon
 *** Creations I like
 **** Melodies
 - Chogyal Namkhai Norbu Rinpoche (Music for the Dance of the Vajra) - The Song of the Three Vajra
@@ -11,8 +9,3 @@
 **** YouTube:
 ***** Gnu/Linux:
 - System Crafters
-**** Podcasts
-***** Game B:
-- The Jim Rutt Show
-***** Leadership
-- The Crazy One
