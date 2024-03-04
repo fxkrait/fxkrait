@@ -10,7 +10,15 @@
 - [[https://www.imdb.com/title/tt0318871/][Berserk (1997)]]
 - [[https://www.imdb.com/title/tt0137523/][Fight Club]]
 - [[https://www.imdb.com/title/tt11280740/][Severance]]
-**** Games
-- [[https://en.wikipedia.org/wiki/Inside_(video_game)][Inside]]
-- [[https://en.wikipedia.org/wiki/Delta_Force_2][Delta Force 2]]
-- [[https://en.wikipedia.org/wiki/Majesty:_The_Fantasy_Kingdom_Sim][Majesty: The Fantasy Kingdom Sim]]
+**** Games (PC)
+- Platformer
+  - [[https://en.wikipedia.org/wiki/Inside_(video_game)][Inside]]
+- Strat
+  - [[https://en.wikipedia.org/wiki/Majesty:_The_Fantasy_Kingdom_Sim][Majesty: The Fantasy Kingdom Sim]]
+- FPS
+  - [[https://en.wikipedia.org/wiki/Delta_Force_2][Delta Force 2 (singleplayer, the original FPS on Windows 98)]]
+  - [[https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2][Call of Duty: Modern Warfare 2 (multiplayer with a bolt-action rifle)]]
+  - [[https://en.wikipedia.org/wiki/Battlefield:_Bad_Company_2][Battlefield: Bad Company 2 (multiplayer with a bolt-action rifle)]]
+  - [[https://en.wikipedia.org/wiki/Battlefield_2142][Battlefield 2142 (multiplayer disguise and knife people and collect dog tags, bolt-action rifle)]]
+  - [[https://en.wikipedia.org/wiki/Battlefield_2][Battlefield 2 (multiplayer bolt-action rifle)]]
+  - [[https://en.wikipedia.org/wiki/Team_Fortress_2][Team Fortress 2 (dead ringer spy, disguise and back-stab knife people)]]
