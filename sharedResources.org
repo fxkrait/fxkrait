@@ -48,3 +48,5 @@
   - [[https://en.wikipedia.org/wiki/Battlefield_2142][Battlefield 2142]] (multiplayer invisibility and knife people and collect dog tags, semi-auto sniper rifle)
   - [[https://en.wikipedia.org/wiki/Battlefield_2][Battlefield 2]] (multiplayer bolt-action rifle - L96A1)
   - [[https://en.wikipedia.org/wiki/Team_Fortress_2][Team Fortress 2]] (dead ringer spy, disguise and back-stab knife people)
+- Party
+  - [[https://en.wikipedia.org/wiki/Fuzion_Frenzy][Fuzion Frenzy]] (Hamster ball mini game)
