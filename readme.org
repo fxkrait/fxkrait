@@ -56,7 +56,7 @@
 
 # #+HTML:<img src="img/fifthXenia.svg" width="70" align="right"><img src="img/fifthXenia.png" width="50" align="right">
 
-#+HTML:<img src="img/fifthXenia.svg" width="90" align="right"><img src="img/Guix.png" width="50" align="right">
+#+HTML:<img src="img/fifthXenia.svg" width="90" align="right"><img src="img/Guix.png" width="40" align="right">
 
 
 # #+HTML:<img src="img/EFF-logo-lockup-reverse.png" width="70" align="right"><img src="img/Guix.png" width="50" align="right">
