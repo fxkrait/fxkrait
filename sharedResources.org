@@ -16,10 +16,13 @@
 - Strat
   - [[https://en.wikipedia.org/wiki/Majesty:_The_Fantasy_Kingdom_Sim][Majesty: The Fantasy Kingdom Sim]]
   - [[https://en.wikipedia.org/wiki/Age_of_Empires:_The_Age_of_Kings][Age of Empires: The Age of Kings (DS, turn-based. Wall off areas, and barrage with longbowmen from castles, heal with monks and from building regen. Spam villagers, take all resources on map quickly.)]]
+  - [[https://en.wikipedia.org/wiki/Zoo_Tycoon_2][Zoo Tycoon 2]]
 - RPG
   - [[https://en.wikipedia.org/wiki/Guild_Wars_Factions][Guild Wars Factions]] and [[https://en.wikipedia.org/wiki/Guild_Wars_Nightfall][Guild Wars Nightfall]]
   - [[https://en.wikipedia.org/wiki/Diablo_II][Diablo II (a little too grindy and repetitive, but a good game. Lightning Sorceress.)]]
   - [[https://en.wikipedia.org/wiki/Old_School_RuneScape][Old School RuneScape (F2P)]]
+- Racing
+  - [[https://en.wikipedia.org/wiki/Lego_Racers_(video_game)][Lego Racers]]
 - FPS
   - [[https://en.wikipedia.org/wiki/Delta_Force_2][Delta Force 2 (singleplayer, the original FPS on Windows 98)]]
   - [[https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2][Call of Duty: Modern Warfare 2 (multiplayer with a bolt-action rifle)]]
