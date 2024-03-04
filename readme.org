@@ -52,7 +52,9 @@
 # #+HTML:<img src="img/NixOS_logo.svg" width="70" align="right"><img src="img/Guix.png" width="50" align="right">
 
 
-#+HTML:<img src="img/GNU_Guile_logo.svg" width="70" align="right"><img src="img/Guix.png" width="50" align="right">
+# #+HTML:<img src="img/GNU_Guile_logo.svg" width="70" align="right"><img src="img/Guix.png" width="50" align="right">
+
+#+HTML:<img src="img/fifthXenia.svg" width="70" align="right"><img src="img/fifthXenia.svg" width="50" align="right">
 
 
 # #+HTML:<img src="img/EFF-logo-lockup-reverse.png" width="70" align="right"><img src="img/Guix.png" width="50" align="right">
