@@ -52,11 +52,11 @@
 # #+HTML:<img src="img/NixOS_logo.svg" width="70" align="right"><img src="img/Guix.png" width="50" align="right">
 
 
-# #+HTML:<img src="img/GNU_Guile_logo.svg" width="70" align="right"><img src="img/Guix.png" width="50" align="right">
+#+HTML:<img src="img/GNU_Guile_logo.svg" width="70" align="right"><img src="img/Guix.png" width="50" align="right">
 
 # #+HTML:<img src="img/fifthXenia.svg" width="70" align="right"><img src="img/fifthXenia.png" width="50" align="right">
 
-#+HTML:<img src="img/fifthXenia.svg" width="90" align="right"><img src="img/Guix.png" width="40" align="right">
+# #+HTML:<img src="img/fifthXenia.svg" width="90" align="right"><img src="img/Guix.png" width="40" align="right">
 
 
 # #+HTML:<img src="img/EFF-logo-lockup-reverse.png" width="70" align="right"><img src="img/Guix.png" width="50" align="right">
@@ -76,7 +76,10 @@
 
 # #+HTML: &emsp;   &emsp; <code>🪅 Until there is more to espouse...🤻</code>
 
-#+HTML: <img src="img/2023-04-24_00-54-42_gnu_color.png" width="40" align="right"> 
+# #+HTML: <img src="img/2023-04-24_00-54-42_gnu_color.png" width="40" align="right"> 
+
+#+HTML: <img src="img/fifthXenia.svg" width="40" align="right"> 
+
 
 #+begin_html
 <details>
