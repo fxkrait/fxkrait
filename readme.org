@@ -7,11 +7,10 @@
 
 ~🪜 Guard Rails: Avoid Extremes. Protect Humanity. The Fighter > Critic. Win/Win > Zero/Sum. Traverse beyond local maximas. Let the past rest. Focus on just a few. Be better than your yesterday. Confront avoidance 🤻~
 
-~We don't have to save the world, the world is big enough to look after itself. What we have to be concerned about, is whether or not the world we live in, will be capable of sustaining us in it. - Douglas Adams~
-
-~I think it's wonderful we just sort of keep on inventing it (the simple water faucet - tweaking it, redesigning it, changing its mechanism) even though it works perfectly well, because it's the way of getting ourselves off local maximums isn't it? - Douglas Adams~
-
-~Writing this book, I mean being aware of the fact that there are these dreadful apalling problems - I didn't want to set out to beat people around the head with that. Because if you beat people around the head, they'll put their head somewhere else. So the idea was to engage people's enthusiasm by entertaining them, making them laugh, and leaving them in some kind of understanding as I came across it. And creep up on them with the serious stuff about this. - Douglas Adams~
+A [[https://en.wikipedia.org/wiki/Triratna][triratna]] of Douglas Adams quotes I revisit from time to time:
+- ~We don't have to save the world, the world is big enough to look after itself. What we have to be concerned about, is whether or not the world we live in, will be capable of sustaining us in it. - Douglas Adams~
+- ~I think it's wonderful we just sort of keep on inventing it (the simple water faucet - tweaking it, redesigning it, changing its mechanism) even though it works perfectly well, because it's the way of getting ourselves off local maximums isn't it? - Douglas Adams~
+- ~Writing this book, I mean being aware of the fact that there are these dreadful apalling problems - I didn't want to set out to beat people around the head with that. Because if you beat people around the head, they'll put their head somewhere else. So the idea was to engage people's enthusiasm by entertaining them, making them laugh, and leaving them in some kind of understanding as I came across it. And creep up on them with the serious stuff about this. - Douglas Adams~
 
 #+begin_html
    <table cellpadding="0">
