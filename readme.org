@@ -5,7 +5,7 @@
 #+end_html
 
 
-~🪜 Guard Rails: Avoid Extremes. Protect Humanity. The Fighter > Critic. Win/Win > Zero/Sum. Traverse beyond local maximas. Let the past rest. Focus on just a few. Be better than your yesterday. Confront avoidance 🤻~
+🪜 Guard Rails: ~Avoid Extremes. Protect Humanity. The Fighter > Critic. Win/Win > Zero/Sum. Traverse beyond local maximas. Let the past rest. Focus on just a few. Be better than your yesterday. Confront avoidance 🤻~
 
 A [[https://en.wikipedia.org/wiki/Triratna][triratna]] of Douglas Adams quotes I revisit from time to time:
 - ~We don't have to save the world, the world is big enough to look after itself. What we have to be concerned about, is whether or not the world we live in, will be capable of sustaining us in it. - Douglas Adams~
