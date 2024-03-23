@@ -76,6 +76,7 @@
 </summary>
 <ul>
 <li><code>I care about the reality of goodness, not the perception of it. And what I see all over the place is people who care about looking good, while doing evil. - Elon Musk</code></li>
+<li><code>You get paid in direct proportion to the difficulty of problems you solve. - Elon Musk</code></li>
 </ul>
 </details>
 #+end_html
