@@ -58,6 +58,18 @@
 </details>
 #+end_html
 
+
+#+begin_html
+<details>
+  <summary>A little bit of da Vinci
+</summary>
+<ul>
+<li><code>Learn how to see. Realize that everything connects to everything else.</code></li>
+<li><code>God sells us all things at the price of labor.</code></li>
+</ul>
+</details>
+#+end_html
+
 #+begin_html
 <details>
   <summary>Lastly, Elon for reaffirming that realities and reality (grounded) > perceptions and narratives (ether). Good needs to be actively propagated, maintained, and sustained, otherwise evil assumes by negation, and through the impetus where voids eventually become the inhabiters of creations of some form, irregardless of the forms particular constitution, even if it may be evil.
