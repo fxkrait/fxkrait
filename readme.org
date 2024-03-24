@@ -54,6 +54,7 @@
 </summary>
 <ul>
 <li><code>The greatest trick the Devil ever pulled was convincing the world he didn’t exist.</code></li>
+<li><code>Pride goeth before destruction, and an haughty spirit before a fall.</code></li>
 </ul>
 </details>
 #+end_html
