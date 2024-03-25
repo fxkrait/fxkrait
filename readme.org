@@ -37,7 +37,7 @@
 #+end_html
 
 
-*And a couple quotes:*
+*And a couple quotes (click to expand):*
 
 #+begin_html
 <details>
