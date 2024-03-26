@@ -24,7 +24,7 @@
 #+end_html
 
 
-*And a few quotes (view via clicking):*
+*And a few quotes (explore via clicking):*
 
 #+begin_html
 <details>
