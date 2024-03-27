@@ -1,7 +1,7 @@
 # *** ☄️FXKrait〽️
 
 #+begin_html
-<img src="img/FXKraitGreg-371x.jpg" width="300" align="left">
+<img src="img/FXKraitGreg-500x.jpg" width="300" align="left">
 #+end_html
 
 
