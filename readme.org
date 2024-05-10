@@ -7,7 +7,7 @@
 ------------
 
 #+begin_html
-<img src="img/reflection8.jpg" width="250" align="right">
+<img src="img/reflection9.jpg" width="250" align="right">
 #+end_html
 
 #+begin_html
