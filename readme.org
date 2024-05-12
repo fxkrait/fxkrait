@@ -1,10 +1,9 @@
 #+begin_html
-<img src="img/thetUsDrum-500x.png" width="300" align="left">
+<img src="img/FXKraitGregMajorQuestLineV13-500x.png" width="300" align="left">
 #+end_html
 
 🪜 *Guard Rails:* ~Avoid Extremes. Protect Humanity. The Fighter > Critic. Win/Win > Zero/Sum. Traverse beyond local maximas. Let the past rest. Focus on just a few. Be better than your yesterday. Confront avoidance~ 🤻
 
-------------
 
 ------------
 
