@@ -24,7 +24,7 @@
 <li><i>Iterate to:</i> Calm absorption, discerned perception, disciplined action. T' rest is noise</li>
 <li><i>Long Term:</i> Pivot from peace of mind (unstable: a jenga tower tenuously dependent on specific circumstances), to peace from mind (stable: still, content absorption).</li>
 </ul>
-<b><code>A energetic drum beat + Naval on groups (social) vs the individual (science):</code></b>
+<b><code>An energetic drum beat + Naval on groups (social) vs the individual (science):</code></b>
 <ul>
 <table cellpadding="0">
 <tr style="padding: 0">
