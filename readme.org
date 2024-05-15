@@ -25,7 +25,7 @@
 <li><i>Iterate to:</i> Calm absorption, discerned perception, disciplined action. T' rest is noise</li>
 <li><i>Long Term:</i> Pivot from peace <i>of</i> mind (tenuous: a jenga tower, what is expedient) to peace <i>from</i> mind (always present: content absorption, calm insight, relinquishing).</li>
 </ul>
-<b><code>An energetic beat + Naval on mob rule vs individuation (individual exploration, eventual upstream to overton window):</code></b>
+<b><code>An energetic beat + Naval on mob rule vs individuation (individual exploration, eventual uplink to overton window):</code></b>
 <ul>
 <table cellpadding="0">
 <tr style="padding: 0">
