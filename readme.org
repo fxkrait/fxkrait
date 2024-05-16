@@ -26,12 +26,18 @@
 <li><i>Long Term:</i> Pivot from peace <i>of</i> mind (tenuous: a jenga tower, what is expedient) to peace <i>from</i> mind (always present: content absorption, calm insight, relinquishing).</li>
 <li><i>A Mind Fuck:</i> Nobody is wrong, because no thing has sole dominion. Nothings permanent, so nothing to get worked up over.</li>
 </ul>
-<b><code>An energetic beat + Naval on mob rule vs individuation (individual exploration + eventual uplink to overton window):</code></b>
+<b><code>2x melodies + Naval on mob rule vs individuation (individual exploration + eventual uplink to overton window):</code></b>
 <ul>
 <table cellpadding="0">
 <tr style="padding: 0">
 
+
 <td valign="left">
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/ae3c5441-28a2-49d5-b491-eed8821c42a2" /></td>
+
+
+
+<td>
 <img src="img/fifthXeniaColoredTextWithLogo4.svg" width="100" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/01fbcc90-097d-42e7-a59a-cadf64f3447e" /></td>
 
