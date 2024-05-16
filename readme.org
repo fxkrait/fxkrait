@@ -32,17 +32,17 @@
 <tr style="padding: 0">
 
 
-<td valign="left">
+<td valign="bottom">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/ae3c5441-28a2-49d5-b491-eed8821c42a2" /></td>
 
 
 
-<td valign="left">
+<td valign="bottom">
 <img src="img/fifthXeniaColoredTextWithLogo4.svg" width="100" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/01fbcc90-097d-42e7-a59a-cadf64f3447e" /></td>
 
 
-<td valign="left">
+<td valign="bottom">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/d1bf8680-a2e9-4a3f-b50e-111e6d2084de" /></td>
 
 </tr>
