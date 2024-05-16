@@ -14,7 +14,7 @@
 #+begin_html
 <b><code>$ whoami:</code></b> I attain calm insights by composing reality into quests and shipping daily 🚢
 <ul>
-<li>Developing <a href="https://piletexod.us">piletexod.us</a> (2025/26): proof-of-work sangha + individuated questing platform.</li>
+<li>🏗️🚧 <a href="https://piletexod.us">piletexod.us</a> (2025/26): a proof-of-work sangha + individuated questing platform.</li>
 </ul>
 <b><code>Thoughts:</code></b> Personal storms originate <i>inside</i>. Embody thy <i>internal</i> habitat and <i>in</i>tuition.
 <ul>
