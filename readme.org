@@ -37,12 +37,12 @@
 
 
 
-<td>
+<td valign="left">
 <img src="img/fifthXeniaColoredTextWithLogo4.svg" width="100" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/01fbcc90-097d-42e7-a59a-cadf64f3447e" /></td>
 
 
-<td>
+<td valign="left">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/d1bf8680-a2e9-4a3f-b50e-111e6d2084de" /></td>
 
 </tr>
