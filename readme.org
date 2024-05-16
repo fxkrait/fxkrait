@@ -13,8 +13,7 @@
 
 #+begin_html
 <b><code>$ whoami:</code></b> I attain calm insights by composing reality into quests and shipping daily 🚢
-<details>
-<summary><b><code>Thoughts:</b></summary>
+<b><code>Thoughts:</b>
 <ul>
 <li>Personal storms originate <i>inside</i>. Embody thy <i>internal</i> habitat and <i>in</i>tuition.</li>
 <li>Resolve to research, plan, and execute at the highest level, for longhaul durations.</li>
@@ -30,7 +29,6 @@
 <li><i>Trauma:</i> Do not ruminate on trauma. The information gain, is not zero, it's negative, because the time could be spent better.</li>
 <li><i>Money:</i> Money is morally/ethically neutral. Its a store of energy, a wound-back punch. Pick your punches wisely & dont get hit</li>
 </ul>
-</details>
 <b>What equilibriums are you approaching? Which ones are you currently swimming in? What currents are blowing in the air?:</b>
 <img src="https://github.com/fxkrait/fxkrait/blob/main/img/ouroboros-compressed-125x-125x-241KB.gif" align="right"/>
 <blockquote>"I think AI has the potential to create infinitely stable dictatorships." - Ilya Sutskever</blockquote>
