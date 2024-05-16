@@ -28,7 +28,7 @@
 <li><i>Soothing:</i> Learn to soothe yourself, in ways best suiting you. Anxiety, and co, are an inability to soothe, and an unstable place to reside. Avoid soothing through consumption, or else you'll become a zombie, with the mind virus of another. Soothe through creation, exploration, physical exertion, journaling, and meditation. A little bit of each, daily, will be very soothing.</li>
 </ul>
 <b>What equilibriums are you approaching?:</b>
-<img src="https://github.com/fxkrait/fxkrait/blob/main/img/ouroboros-compressed.gif"  align="right"/>
+<img src="https://github.com/fxkrait/fxkrait/blob/main/img/ouroboros-compressed-250x-250x-765KB.gif" align="right"/>
 <blockquote>"I think AI has the potential to create infinitely stable dictatorships." - Ilya Sutskever</blockquote>
 <blockquote>"... a vicious circle in which the currency depreciates and inflation accelerates or of a benign circle where the opposite happens. Vicious and benign circles are a far cry from equilibrium. Nevertheless, they could produce a state of affairs akin to equilibrium if the reflexive, mutually self-reinforcing relationship could be sustained indefinitely." - George Soros</blockquote>
 
