@@ -29,7 +29,7 @@
 <li><i>Trust:</i> Trust, dependability, and character, are earned over a lifetime, and irrevocably tarnished in less than a millisecond.</li>
 <li><i>Puppetry/Mimicry:</i> Do not act relative to others, societies equanimity, or a system. Act for discerned predictive accuracy, direct results, and wholesomeness. Never think that you can become the master by simply mimicing the master's outer behaviors. You will just become a puppet, at best, dazed and confused, most likely, and a slave, at worst. Forever chasing the masters shadow, and thus getting further and further away, with each step. You're headed in the wrong direction. Re-evaluate life.</li>
 <li><i>Trauma:</i> Do not ruminate on trauma. The information gain, is not zero, it's negative, because the time could be spent better.</li>
-<li><i>Money:</i> Money is morally/ethically neutral. It's a store of energy, a wound-back punch. Pick your punches wisely, & don't get hit.</li>
+<li><i>Money:</i> Money is morally/ethically neutral. It's a store of energy, a wound-back punch. Pick your punches wisely, & don't get hit</li>
 </ul>
 <b>What equilibriums are you approaching? Which ones are you currently swimming in? What currents are blowing in the air?:</b>
 <img src="https://github.com/fxkrait/fxkrait/blob/main/img/ouroboros-compressed-125x-125x-241KB.gif" align="right"/>
