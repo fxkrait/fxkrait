@@ -13,9 +13,9 @@
 
 #+begin_html
 <b><code>$ whoami:</code></b> I attain calm insights by composing reality into quests and shipping daily 🚢
-<b><code>Thoughts:</b>
+<b><code>Thoughts:</b> Personal storms originate <i>inside</i>. Embody thy <i>internal</i> habitat and <i>in</i>tuition.
+
 <ul>
-<li>Personal storms originate <i>inside</i>. Embody thy <i>internal</i> habitat and <i>in</i>tuition.</li>
 <li>Resolve to research, plan, and execute at the highest level, for longhaul durations.</li>
 <li>Play the game that you've designed, not anothers. Have fun, savor life :), it's short.</li>
 <li>Do not envy another's life, unless you'll take their good, with their bad. And you will never know the depths and despairs of anothers' bad, so don't even tempt the dice.</li>
