@@ -14,7 +14,7 @@
 #+begin_html
 <b><code>$ whoami:</code></b>
 <ul>
-<li>Seeking. I attain calm insights by composing reality into quests and shipping daily 🚢</li>
+<li>Skirrer. I attain calm insights by composing reality into quests and shipping daily 🚢</li>
 <ul>
 <li>🏗️<a href="https://piletexod.us">piletexod.us</a> (2025/6): proof-of-work sangha, individuated questing platform</li>
 </ul>
