@@ -92,7 +92,7 @@
 
 <code><b><a href="https://en.wikipedia.org/wiki/Illuminati:_New_World_Order">Illumunati</a> 1994 card game. I'll heed that "Just Say No" card, not play their game, get back to my game, piletexodus.</b></code>
 
-<img src="img/illumunati1994CardCame.jpg" align="center">
+<img src="img/illumunati1994CardGame.jpg" align="center">
 
 
 #+end_html
