@@ -45,7 +45,7 @@
 
 
 <td valign="bottom">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/ae3c5441-28a2-49d5-b491-eed8821c42a2" /></td>
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/ab2229b0-382c-4265-93b7-6507b4b83ab7" /></td>
 
 
 
