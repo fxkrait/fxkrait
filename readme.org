@@ -43,7 +43,7 @@
 <li><i>Hardcore:</i> Hardcore iterations on actions, feedback loops. Aggresive sense of urgency. Drill foundations into base reality.</li>
 <li><i>War:</i> It's better to be a warrior in a garden, than a gardener in a war. If you want peace, prepare for war.</li>
 <li><i>Parasites:</i> First they came for... then for themselves. Let them have their cake and eat it too. They'll eventually eat themselves.</li>
-<li><i>Lighthouse:</i> Be a beacon rooted in a stable, elevated position. Don't be the tugboat that risks capsaztion, and whose environment is a storm.</li>
+<li><i>Lighthouse:</i> Be a beacon rooted in a stable, elevated position. Don't be the rescue boat whose environment is the storm.</li>
 </ul>
 <b><code>2x melodies:</code></b>
 <ul>
