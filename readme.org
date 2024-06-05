@@ -45,7 +45,7 @@
 <li><i>Parasites:</i> First they came for... then for themselves. Let them have their cake and eat it too. They'll eventually eat themselves.</li>
 <li><i>Lighthouse:</i> Be a beacon rooted in a stable, elevated position. Don't be a rescue boat whose environment becomes the storm.</li>
 </ul>
-<b><code>2x melodies:</code></b>
+<b><code>2x melodies + a vibeCheck:</code></b>
 <ul>
 <table cellpadding="0">
 <tr style="padding: 0">
