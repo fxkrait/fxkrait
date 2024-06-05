@@ -52,7 +52,7 @@
 
 
 <td valign="bottom">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/ab2229b0-382c-4265-93b7-6507b4b83ab7" /></td>
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/729b9670-d296-441c-87cd-6a4c0aacd5af" /></td>
 
 
 <td valign="bottom">
