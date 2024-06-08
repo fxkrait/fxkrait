@@ -64,6 +64,7 @@
 <li><i>Quotes:</i> The mind can quote anything, and never live it. Can you quote something, and live it, dropping the quotation marks?</li>
 </ul>
 <b><code>3x melodies (15 sec ea) + a vibeCheck (4:30 min):</code></b>
+<ul>
 <table cellpadding="0">
 <tr style="padding: 0">
 
@@ -88,10 +89,7 @@
 
 </tr>
 </table>
-
-
-
-
+</ul>
 #+end_html
 
 
