@@ -75,7 +75,7 @@
 <li><i>Connection:</i> Learn how to see. Realize that everything connects to everything else.</li>
 <li><i>Quotes:</i> The mind can quote anything, and never live it. Can you quote something, and live it, dropping the quotation marks?</li>
 </ul>
-<b><code>3x melodies (15 sec ea) + a vibeCheck (4:30 min):</code></b>
+<b><code>2x melodies (15 sec ea) + 2x mindset calibrators (4:30, 13:30 min):</code></b>
 <ul>
 <table cellpadding="0">
 <tr style="padding: 0">
@@ -92,12 +92,12 @@
 
 
 <td valign="bottom">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/acc112c4-341d-46f9-9dad-3266bb30c82a" /></td>
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/0128ddfb-e1e3-4ecc-a77c-a7a804cd9866" /></td>
 
 
 
 <td valign="bottom">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/7a2e611c-1420-4f69-8138-91043dd9aa64" /></td>
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/2f832692-237d-4626-8a3c-fa25105ed65e" /></td>
 
 </tr>
 </table>
