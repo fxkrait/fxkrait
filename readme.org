@@ -108,4 +108,17 @@
 #+end_html
 
 
+~The Democracy under Google and the CIA:~
+
+#+BEGIN_SRC elixir
+@type t() :: %GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData{
+  isCovidLocalAuthority: boolean() | nil,
+  isElectionAuthority: boolean() | nil,
+  hasCorrectOpinion: boolean() | nil,
+  willNotCauseUsTrouble: boolean() | nil,
+  isProgressingAmerica: boolean() | nil,
+}
+#+END_SRC
+
+
 --------------
