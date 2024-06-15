@@ -117,7 +117,7 @@
   hasCorrectOpinion: boolean() | nil,
   willNotCauseUsTrouble: boolean() | nil,
   isProgressingTheAgenda: boolean() | nil,
-  supportsTheThing: boolean() | nil,
+  supportsTheThing: boolean() | nil
 }
 #+END_SRC
 
