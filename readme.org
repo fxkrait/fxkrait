@@ -108,8 +108,7 @@
 #+end_html
 
 
-~The Democracy under Google and the CIA:~
-- [[https://github.com/googleapis/elixir-google-api/tree/master/clients/content_warehouse/blob/main/lib/google_api/content_warehouse/v1/model/quality_nsr_nsr_data.ex#L79][src]]
+~The Democracy under~ [[https://github.com/googleapis/elixir-google-api/tree/master/clients/content_warehouse/blob/main/lib/google_api/content_warehouse/v1/model/quality_nsr_nsr_data.ex#L79][Google]] ~and the CIA:~
 
 #+BEGIN_SRC elixir
 @type t() :: %GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData{
