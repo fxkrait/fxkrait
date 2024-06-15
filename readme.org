@@ -116,7 +116,7 @@
   isElectionAuthority: boolean() | nil,
   hasCorrectOpinion: boolean() | nil,
   willNotCauseUsTrouble: boolean() | nil,
-  isProgressingAmerica: boolean() | nil,
+  isProgressingTheAgenda: boolean() | nil,
 }
 #+END_SRC
 
