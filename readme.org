@@ -108,7 +108,7 @@
 #+end_html
 
 
-~Curated Pavlovian/Orwellian Democracy under~ [[https://github.com/googleapis/elixir-google-api/tree/master/clients/content_warehouse/blob/main/lib/google_api/content_warehouse/v1/model/quality_nsr_nsr_data.ex#L79][Go]]o[[https://hexdocs.pm/google_api_content_warehouse/0.3.0/GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData.html#module-attributes][gle]], ~CIA, and co, who treat you as their subjects they can freely gaslight:~
+~Curated Pavlovian/Orwellian Democracy under~ [[https://github.com/googleapis/elixir-google-api/tree/master/clients/content_warehouse/blob/main/lib/google_api/content_warehouse/v1/model/quality_nsr_nsr_data.ex#L79][Go]]o[[https://hexdocs.pm/google_api_content_warehouse/0.3.0/GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData.html#module-attributes][gle]], ~CIA, and co, who treat you as their infantile subjects they can freely gaslight:~
 
 #+BEGIN_SRC elixir
 @type t() :: %GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData{
