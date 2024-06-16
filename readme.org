@@ -128,7 +128,7 @@
 
 
 #+begin_quote
-"Corporations have neither bodies to be punished, nor souls to be condemned; they therefore do as they like." - Edward Thurlow, 1st Baron Thurlow
+"Corporations have neither bodies to be punished, nor souls to be condemned; they therefore do as they like." - Edward Thurlow, 1st Baron Thurlow, during the impeachment of Warren Hastings
 #+end_quote
 
 --------------
