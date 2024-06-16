@@ -126,4 +126,9 @@
 #+END_SRC
 
 
+
+#+begin_quote
+"Corporations have neither bodies to be punished, nor souls to be condemned; they therefore do as they like." - Edward Thurlow, 1st Baron Thurlow
+#+end_quote
+
 --------------
