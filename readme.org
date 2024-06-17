@@ -214,8 +214,8 @@
 
 <tr style="padding: 0">
 
-<td valign="bottom">
-<img src="img/platos-cave-edwin-blanco-arnesto-400x-jpegoptim-25k.jpg" align="right"></td>
+<td valign="bottom" width="300">
+<img src="img/platos-cave-edwin-blanco-arnesto-400x-jpegoptim-25k.jpg" width="300" align="right"></td>
 
 
 <td valign="bottom">
