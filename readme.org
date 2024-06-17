@@ -149,4 +149,26 @@
 - We don't want the parade scene on the left, where all of the raw life in reality becomes reduced and automized for this large system: everything from japanese suicide, homeless and neets, suits, voyeurs, religious, corporate battles, politics, family, all become fed into this detached mindless disembodied tsunami. You lose yourself, you become an automaton, like the rest of the parade.
 - We want more of the right, where the individual is not part of this disembodied parade, but embodied, and sort of floating through life, experiencing it all, with agency. Participating, not consumed by life.
 
+#+begin_html
+<ul>
+<table cellpadding="0">
+<tr style="padding: 0">
+
+
+<td valign="bottom">
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/75085dd5-d035-444c-b5f1-258899b32eed" /></td>
+
+
+<td valign="bottom">
+<img src="img/fifthXeniaColoredTextWithLogo4.svg" width="100" align="right">
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/6e515845-0522-422c-acb0-a890d433cd03" /></td>
+
+</tr>
+</table>
+</ul>
+#+end_html
+
+
+
+
 --------------
