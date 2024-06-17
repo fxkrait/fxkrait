@@ -127,6 +127,13 @@
 
 
 
+
+#+begin_html
+<img src="img/platos-cave-edwin-blanco-arnesto-400x.webp" width="200" align="right">
+#+end_html
+
+
+
 #+begin_quote
 "Corporations have neither bodies to be punished, nor souls to be condemned; they therefore do as they like." - Edward Thurlow, 1st Baron Thurlow, during the impeachment of Warren Hastings
 #+end_quote
