@@ -114,19 +114,13 @@
 - Per a CIA agent: "~If racism exists outside the United States, we play to racism. If child abuse and human trafficking is part of what's happening outside of the United States, that's an active tool that we can use to do whatever we got to do.~" ([[https://youtu.be/2PUs7l2jW9c][52:52]])
 
 
-
-
+# https://github.com/orgs/community/discussions/65381
 #+begin_html
-<img src="img/platos-cave-edwin-blanco-arnesto-400x-jpegoptim-25k.jpg" width="300" align="right">
-#+end_html
+<table cellpadding="0">
+<tr style="padding: 0">
 
-
-
-
-
-
-
-#+BEGIN_SRC elixir
+<td valign="bottom">
+<pre lang=elixir>
 @type t() :: %GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData{
   isCovidLocalAuthority: boolean() | nil,
   isElectionAuthority: boolean() | nil,
@@ -135,7 +129,15 @@
   isProgressingTheAgenda: boolean() | nil,
   supportsTheThing: boolean() | nil
 }
-#+END_SRC
+</pre>
+</td>
+
+<td valign="bottom">
+<img src="img/platos-cave-edwin-blanco-arnesto-400x-jpegoptim-25k.jpg" width="300" align="right"></td>
+
+</tr>
+</table>
+#+end_html
 
 
 
@@ -185,52 +187,6 @@
 #+end_html
 
 
-
-# https://github.com/orgs/community/discussions/65381
-#+begin_html
-<pre lang=elixir>
-@type t() :: %GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData{
-  isCovidLocalAuthority: boolean() | nil,
-  isElectionAuthority: boolean() | nil,
-  hasCorrectOpinion: boolean() | nil,
-  willNotCauseUsTrouble: boolean() | nil,
-  isProgressingTheAgenda: boolean() | nil,
-  supportsTheThing: boolean() | nil
-}
-</pre>
-#+end_html
-
-
-
-# https://github.com/orgs/community/discussions/65381
-#+begin_html
-<table cellpadding="0">
-
-<tr style="padding: 0">
-
-<td valign="bottom">
-<pre lang=elixir>
-@type t() :: %GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData{
-  isCovidLocalAuthority: boolean() | nil,
-  isElectionAuthority: boolean() | nil,
-  hasCorrectOpinion: boolean() | nil,
-  willNotCauseUsTrouble: boolean() | nil,
-  isProgressingTheAgenda: boolean() | nil,
-  supportsTheThing: boolean() | nil
-}
-</pre>
-</td>
-
-
-<td valign="bottom">
-<img src="img/platos-cave-edwin-blanco-arnesto-400x-jpegoptim-25k.jpg" width="300" align="right"></td>
-
-</tr>
-
-</table>
-
-
-#+end_html
 
 
 
