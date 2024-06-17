@@ -122,6 +122,10 @@
 
 
 
+
+
+
+
 #+BEGIN_SRC elixir
 @type t() :: %GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData{
   isCovidLocalAuthority: boolean() | nil,
@@ -179,6 +183,22 @@
 </table>
 </ul>
 #+end_html
+
+
+
+#+begin_html
+<code>
+@type t() :: %GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData{
+  isCovidLocalAuthority: boolean() | nil,
+  isElectionAuthority: boolean() | nil,
+  hasCorrectOpinion: boolean() | nil,
+  willNotCauseUsTrouble: boolean() | nil,
+  isProgressingTheAgenda: boolean() | nil,
+  supportsTheThing: boolean() | nil
+}
+</code>
+#+end_html
+
 
 
 
