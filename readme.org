@@ -141,10 +141,4 @@
 
 
 
-#+begin_html
-<img src="img/platos-cave-edwin-blanco-arnesto-400x-jpegoptim-25k.jpg" width="200" align="right">
-#+end_html
-
-
-
 --------------
