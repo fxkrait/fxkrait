@@ -153,15 +153,7 @@
 <ul>
 <table cellpadding="0">
 
-<tr style="padding: 0">
 
-
-<td valign="bottom">
-<p><i>Left:</i> We don't want the parade scene on the left, where all of the raw life in reality becomes reduced and automized for this large system: everything from japanese suicide, homeless and neets, suits, voyeurs, religious, corporate battles, politics, family, all become fed into this detached mindless disembodied tsunami. You lose yourself, you become an automaton, like the rest of the parade.</p></td>
-
-<td valign="bottom">
-<p><i>Right:</i> We want more of the right, where the individual is not part of this disembodied parade, but embodied, and sort of floating through life, experiencing it all, with agency. Participating, not consumed by life.</p></td>
-</tr>
 
 <tr style="padding: 0">
 
@@ -175,6 +167,17 @@
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/6e515845-0522-422c-acb0-a890d433cd03" /></td>
 
 </tr>
+
+<tr style="padding: 0">
+
+
+<td valign="top">
+<p><i>Left:</i> We don't want the parade scene on the left, where all of the raw life in reality becomes reduced and automized for this large system: everything from japanese suicide, homeless and neets, suits, voyeurs, religious, corporate battles, politics, family, all become fed into this detached mindless disembodied tsunami. You lose yourself, you become an automaton, like the rest of the parade.</p></td>
+
+<td valign="top">
+<p><i>Right:</i> We want more of the right, where the individual is not part of this disembodied parade, but embodied, and sort of floating through life, experiencing it all, with agency. Participating, not consumed by life.</p></td>
+</tr>
+
 </table>
 </ul>
 #+end_html
