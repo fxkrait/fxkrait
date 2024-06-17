@@ -185,4 +185,22 @@
 #+end_html
 
 
+
+#+begin_html
+<pre lang=elixir>
+@type t() :: %GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData{
+  isCovidLocalAuthority: boolean() | nil,
+  isElectionAuthority: boolean() | nil,
+  hasCorrectOpinion: boolean() | nil,
+  willNotCauseUsTrouble: boolean() | nil,
+  isProgressingTheAgenda: boolean() | nil,
+  supportsTheThing: boolean() | nil
+}
+</pre>
+#+end_html
+
+
+
+
+
 --------------
