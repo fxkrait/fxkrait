@@ -186,6 +186,7 @@
 
 
 
+# https://github.com/orgs/community/discussions/65381
 #+begin_html
 <pre lang=elixir>
 @type t() :: %GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData{
