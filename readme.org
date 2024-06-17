@@ -114,6 +114,14 @@
 - Per a CIA agent: "~If racism exists outside the United States, we play to racism. If child abuse and human trafficking is part of what's happening outside of the United States, that's an active tool that we can use to do whatever we got to do.~" ([[https://youtu.be/2PUs7l2jW9c][52:52]])
 
 
+
+
+#+begin_html
+<img src="img/platos-cave-edwin-blanco-arnesto-400x-jpegoptim-25k.jpg" width="200" align="right">
+#+end_html
+
+
+
 #+BEGIN_SRC elixir
 @type t() :: %GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData{
   isCovidLocalAuthority: boolean() | nil,
@@ -126,11 +134,6 @@
 #+END_SRC
 
 
-
-
-#+begin_html
-<img src="img/platos-cave-edwin-blanco-arnesto-400x-jpegoptim-25k.jpg" width="200" align="right">
-#+end_html
 
 
 
