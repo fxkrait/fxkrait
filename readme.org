@@ -21,9 +21,10 @@
 </ul>
 </ul>
 
-
+<ul>
 <img src="img/fifthXeniaColoredTextWithLogo4.svg" width="100" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/0d3cb154-a816-4b09-bd9b-8e2e655de9d9" />
+</ul>
 #+end_html
 
 
