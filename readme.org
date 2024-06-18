@@ -43,6 +43,7 @@
 <li><i>Hardcore:</i> Hardcore iterations on actions, feedback loops. Aggressive sense of urgency. Drill foundations into base reality.</li>
 <li><i>War:</i> It's better to be a warrior in a garden, than a gardener in a war. If you want peace, prepare for war.</li>
 <li><i>Parasites:</i> First they came for... then for themselves. Let them have their cake and eat it too. They'll eventually eat themselves.</li>
+<li><i>Parasites 2:</i> Parasites can be incredibly strong, because they can be undetectable by the host. Toxoplasma gondii makes mice sexually stimulated by cat urine, therefore commiting suicide. Beware the tyranny of the cultural minority. Have the courage to leave the parades.</li>
 <li><i>Lighthouse:</i> Be a beacon rooted in a stable, elevated position. Don't be a rescue boat whose environment becomes the storm.</li>
 <li><i>Nice:</i> If being nice and agreeable is the greatest of virtues as promoted per society, are you going to be nice while on a leash, and walked by another man?  If so, you may consider undergoing a species change, because this doesn't sound humane.</li>
 <li><i>Evil:</i> Don't ask how much evil inhabits earth, such that it turns to hell. Ask what evil to abstain, such that you see heaven.</li>
@@ -113,6 +114,7 @@
 ~Curated Pavlovian/Orwellian Democracy under~ [[https://github.com/googleapis/elixir-google-api/tree/master/clients/content_warehouse/blob/main/lib/google_api/content_warehouse/v1/model/quality_nsr_nsr_data.ex#L79][Go]]o[[https://hexdocs.pm/google_api_content_warehouse/0.3.0/GoogleApi.ContentWarehouse.V1.Model.QualityNsrNsrData.html#module-attributes][gle]], ~CIA, and co, who treat you as their infantile subjects that they freely gaslight, because they know what is best for you. You know, because Google is 'not evil', and the CIA does not actively traffic kids, etc, etc:~
 - The words of a CIA agent: "~If racism exists outside the United States, we play to racism. If child abuse and human trafficking is part of what's happening outside of the United States, that's an active tool that we can use to do whatever we got to do.~" ([[https://youtu.be/2PUs7l2jW9c][52:52]])
   - (If we ignore Waco, Fred Hampton, etc, then the FBI is not supposed to murder humans, per their agencies handbook. CIA has no rules, no limits, nobody really watches them. That handbook is black budgeted.)
+  - (With Intel ME, Amd PSP, proprietary basebands, enclaves, as required and mandatory, this puts into law pervasive government injections of backdoors into the totality of all consumer electronics. This is a fact about reality that is far past levels of sanity. The third amendment prevents the quartering of troops. We should have transparent devices free from the governments terroristic militias and rebellious eyes. They have rebelled, strayed, from their honorable duties, and creed.)
 
 
 
