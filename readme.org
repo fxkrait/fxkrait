@@ -19,6 +19,8 @@
 <ul>
 <li>🏗️<a href="https://piletexod.us">piletexod.us</a> (2025/6): proof-of-work sangha, individuated questing platform.</li>
 </ul>
+</ul>
+
 <table cellpadding="0">
 <tr style="padding: 0">
 
@@ -32,7 +34,6 @@
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/0d3cb154-a816-4b09-bd9b-8e2e655de9d9" /></td>
 </tr>
 </table>
-</ul>
 #+end_html
 
 
