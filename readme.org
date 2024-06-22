@@ -26,7 +26,7 @@
 <li><i>Hope:</i> You're fucked, when you don't realize you're fucked. When you realize you're fucked, you're no longer fucked. There's hope. Even while familiar darkness chokes.</li>
 <li><i>Invert:</i> Invert negativity. Invert stasis. Invert despair. Invert the good, with the better. Invert heaven, and walk with peace, now. Invert the whole panjandrum.</li>
 <li><i>Hard to kill:</i> Bring life to the dead. Raise the dead by bringing flowers to their graves</li>
-<li><i>The path:</i> If nobody is able to directly grasp the light, yet everyone can directly grasp the dark, then we can invert the dark, and use it to guide us towards the light.</li>
+<li><i>The path:</i> If nobody is able to directly grasp the light, yet everyone can directly grasp the dark, then we can invert the dark, and use it to guide us towards the light</li>
 </ul>
 <ul>
 <table cellpadding="0">
