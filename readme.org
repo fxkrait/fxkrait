@@ -40,6 +40,7 @@
 
 
 <td valign="bottom">
+<img src="img/maromi.jpg" width="25" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/3d1f1715-3baf-44bb-a80a-8ce716fe0dfe" /></td>
 
 </tr>
