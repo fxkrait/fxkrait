@@ -33,13 +33,12 @@
 <tr style="padding: 0">
 
 <td valign="bottom">
-<img src="img/fifthXeniaColoredTextWithLogo4.svg" width="125" align="right">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/8e8a60f0-a2db-4fc9-8dbd-5a8ff5c918d8" /></td>
-
-
-<td valign="bottom">
 <img src="img/maromi.jpg" width="40" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/3d1f1715-3baf-44bb-a80a-8ce716fe0dfe" /></td>
+
+<td valign="bottom">
+<img src="img/fifthXeniaColoredTextWithLogo4.svg" width="125" align="right">
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/8e8a60f0-a2db-4fc9-8dbd-5a8ff5c918d8" /></td>
 
 </tr>
 </table>
