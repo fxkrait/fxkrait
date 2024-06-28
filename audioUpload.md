@@ -1,3 +1,6 @@
+[06-28.1-24-0.83x-40k.webm](https://github.com/fxkrait/fxkrait/assets/7407672/cb35e8c0-4761-4aca-8521-4e672d7271d6)
+
+
 [09-09.2-23-short.webm](https://github.com/fxkrait/fxkrait/assets/7407672/8e8a60f0-a2db-4fc9-8dbd-5a8ff5c918d8)
 
 
