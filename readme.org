@@ -40,6 +40,10 @@
 <img src="img/fifthXeniaColoredTextWithLogo4.svg" width="125" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/6a415fb5-7737-4b14-b0b7-876e81775ca7" /></td>
 
+
+<td valign="bottom">
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/f32157fe-b990-4ffe-aabd-c1a06822266e" /></td>
+
 </tr>
 </table>
 </ul>
