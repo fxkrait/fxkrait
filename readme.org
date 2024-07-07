@@ -38,7 +38,7 @@
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/f3d00dff-de76-4030-8612-5a8056f8d1ce" /></td>
 
 <td valign="bottom">
-<img src="img/fifthXeniaColoredTextWithLogo4.svg" width="125" align="right">
+<img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/df981ed7-c42a-49a6-b613-9cf4b362c7bf" /></td>
 
 </tr>
