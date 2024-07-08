@@ -42,13 +42,12 @@
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/e1801087-a91a-47a5-b90d-428526ad648b" /></td>
 
 <td valign="bottom">
+<img src="https://github.com/fxkrait/fxkrait/blob/main/img/lilSlugger.gif width="40" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/bac0f34c-add7-48ce-80b3-0f6f0eea4206" /></td>
 
 </tr>
 </table>
 </ul>
-
-
 
 
 <img src="img/cathedralInTheShanty-600x.jpg" width="400" align="right">
