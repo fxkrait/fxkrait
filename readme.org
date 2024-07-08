@@ -41,6 +41,9 @@
 <img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="right">
 <video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/df981ed7-c42a-49a6-b613-9cf4b362c7bf" /></td>
 
+<td valign="bottom">
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/bac0f34c-add7-48ce-80b3-0f6f0eea4206" /></td>
+
 </tr>
 </table>
 </ul>
