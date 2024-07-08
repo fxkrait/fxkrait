@@ -35,11 +35,11 @@
 
 <td valign="bottom">
 <img src="img/maromi.jpg" width="40" align="right">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/b6dfaa37-b746-45b8-871b-ad4b36fbdbd3" /></td>
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/e1801087-a91a-47a5-b90d-428526ad648b" /></td>
 
 <td valign="bottom">
 <img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="right">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/e1801087-a91a-47a5-b90d-428526ad648b" /></td>
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/b6dfaa37-b746-45b8-871b-ad4b36fbdbd3" /></td>
 
 <td valign="bottom">
 <img src="https://raw.githubusercontent.com/fxkrait/fxkrait/main/img/lilSlugger.gif" width="40" align="right">
