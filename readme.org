@@ -35,7 +35,7 @@
 
 <td valign="bottom">
 <img src="img/maromi.jpg" width="40" align="right">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/437c5e6f-c21f-4f4f-ad59-a94e61b796d7" /></td>
+<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/b6dfaa37-b746-45b8-871b-ad4b36fbdbd3" /></td>
 
 <td valign="bottom">
 <img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="right">
