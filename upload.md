@@ -1,3 +1,7 @@
+[aSparringSession.webm](https://github.com/fxkrait/fxkrait/assets/7407672/b6dfaa37-b746-45b8-871b-ad4b36fbdbd3)
+
+
+
 [aSparringSession.webm](https://github.com/fxkrait/fxkrait/assets/7407672/3f457d03-405e-4f6c-afe9-82d1ce4a227a)
 
 
