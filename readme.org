@@ -29,32 +29,6 @@
 <li><i>Sow:</i> Sow your intentions, virtue, and process. Always iterate chiefly on your inputs, yet, digest the previous crop, for novel seeds and feedback. Return to your inputs.</li>
 <li><i>Full Spectrum / No Spectrum:</i> Positive, and negative. OK with either. OK with none.</li>
 </ul>
-<ul>
-<table cellpadding="0">
-<tr style="padding: 0">
-
-<td valign="bottom">
-<img src="img/maromi.jpg" width="40" align="right">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/e1801087-a91a-47a5-b90d-428526ad648b" /></td>
-
-<td valign="bottom">
-<img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="right">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/b6dfaa37-b746-45b8-871b-ad4b36fbdbd3" /></td>
-
-<td valign="bottom">
-<img src="https://raw.githubusercontent.com/fxkrait/fxkrait/main/img/lilSlugger.gif" width="40" align="right">
-<video controls preload="none" src="https://github.com/fxkrait/fxkrait/assets/7407672/bac0f34c-add7-48ce-80b3-0f6f0eea4206" /></td>
-
-</tr>
-</table>
-</ul>
-
-
-<img src="img/cathedralInTheShanty-600x.jpg" width="400" align="right">
-<ul>
-<li><i>A beautiful cathedral, within the shantiest of towns:</i> The beauty of creation shines through when we get out of the way of our own cognitive projections. When you arrive at a place where you're able to contrast the objects of your perception, not with your understanding of causality and the laws of physics, but with the infinite void of nothingness, then all of creation becomes bright, and shining, and miraculous. If you think miracles are just about nonstandard empirical phenomena, then you're anchored at the wrong point. The standard phenomena are just as miraculous as the non-standard phenomena. And it speaks to the pervasive and stultifying effects of convention, that so many of us seem to have forgotten that this is so.</li>
-</ul>
-
 #+end_html
 
 
