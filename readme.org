@@ -38,7 +38,7 @@
 </ul>
 
 
-<img src="img/blackMold.jpg" width="250" align="right">
+<img src="img/blackMold.jpg" width="100" align="right">
 #+end_html
 
 
