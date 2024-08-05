@@ -34,7 +34,7 @@
 
 
 
-<img src="img/blackMold.jpg" width="100" align="right">
+<img src="img/blackMold.jpg" width="250" align="right">
 
 
 <b><code>Biologically Toxic Hell Holes:</code></b>
