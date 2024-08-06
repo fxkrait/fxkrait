@@ -60,9 +60,9 @@
 
 <td valign="bottom">
 <div>
-<img src="https://raw.githubusercontent.com/fxkrait/fxkrait/main/img/lilSlugger.gif" width="20" align="right">
+<img src="https://raw.githubusercontent.com/fxkrait/fxkrait/main/img/lilSlugger.gif" width="30" align="right">
 <img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="top">
-<img src="img/maromi.jpg" width="20" align="left">
+<img src="img/maromi.jpg" width="30" align="left">
 </div>
 <video controls preload="none" src="https://github.com/user-attachments/assets/8412d41b-6acc-4b7a-9d10-04dcdfb78b09" /></td>
 
