@@ -41,7 +41,9 @@
 
 
 
-<img src="img/blackMold.jpg" width="250" align="left">
+
+<video controls preload="none" src="https://github.com/user-attachments/assets/8412d41b-6acc-4b7a-9d10-04dcdfb78b09" align="left"/>
+
 
 <b><code>Biologically Toxic Hell Holes (<a href="https://en.wikipedia.org/wiki/Stachybotrys">deadly</a> stuff):</code></b>
 <ul>
@@ -49,7 +51,6 @@
 </ul>
 
 
-<video controls preload="none" src="https://github.com/user-attachments/assets/8412d41b-6acc-4b7a-9d10-04dcdfb78b09"  align="right"/>
 
 
 
