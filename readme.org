@@ -58,7 +58,7 @@
 
 
 <td valign="bottom">
-<img src="img/blackMold.jpg" width="250" align="right">/></td>
+<img src="img/blackMold.jpg" width="250" align="right"/></td>
 
 
 <td valign="bottom">
