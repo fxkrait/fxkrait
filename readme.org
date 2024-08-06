@@ -48,7 +48,7 @@
 <td valign="bottom">
 <div>
 <img src="https://raw.githubusercontent.com/fxkrait/fxkrait/main/img/lilSlugger.gif" width="40" align="right">
-<img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="right">
+<img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="left">
 </div>
 <video controls preload="none" src="https://github.com/user-attachments/assets/c90c34fe-b402-4409-8fa9-bfb70fa9363e" /></td>
 
