@@ -52,7 +52,7 @@
 </ul>
 
 
-<video controls preload="none" src="https://github.com/user-attachments/assets/8412d41b-6acc-4b7a-9d10-04dcdfb78b09" align="left"/>
+<video controls preload="none" src="https://github.com/user-attachments/assets/8412d41b-6acc-4b7a-9d10-04dcdfb78b09" align="right"/>
 
 
 
