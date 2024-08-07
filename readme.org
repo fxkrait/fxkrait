@@ -3,7 +3,8 @@
 #+end_html
 
 🪜 *Guard Rails:* ~Avoid Extremes. Protect Humanity. The Fighter > Critic. Win/Win > Zero/Sum. Traverse beyond local maximas. Let the past rest. Focus on just a few. Be better than your yesterday. Confront avoidance~ 🤻
-🚶‍♂️ Continue walking, especially while the flesh is burning. ❤️‍🔥
+
+------------
 
 
 #+begin_html
@@ -47,6 +48,7 @@
 
 
 <td valign="bottom">
+<p><code>🚶‍♂️ Continue walking, especially while the flesh is burning. ❤️‍🔥</code></p>
 <div>
 <img src="https://raw.githubusercontent.com/fxkrait/fxkrait/main/img/lilSlugger.gif" width="40" align="right">
 <img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="left">
