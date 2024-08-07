@@ -48,7 +48,7 @@
 
 
 <td valign="bottom">
-<p><code>🚶‍♂️ Continue walking, especially while the flesh is burning - that's when things count the most. ❤️‍🔥</code></p>
+<p><code>🚶‍♂️ Continue walking, especially while the flesh is burning - that's when things count most. ❤️‍🔥</code></p>
 <div>
 <img src="https://raw.githubusercontent.com/fxkrait/fxkrait/main/img/lilSlugger.gif" width="40" align="right">
 <img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="left">
