@@ -14,7 +14,7 @@
 #+begin_html
 <b><code>$ whoami:</code></b>
 <ul>
-<li>A <a href="https://www.merriam-webster.com/thesaurus/skirr">skirr</a>er 💨 We can go off the reservation, and have the computers support us 🌄.</li>
+<li>A <a href="https://www.merriam-webster.com/thesaurus/skirr">skirr</a>er 💨 Leaving the reservation, and having the computers watch my six 🌄.</li>
 <ul>
 <li>🏗️ <a href="https://piletexod.us">piletexod.us</a> (202X): proof-of-work🕂individuated questing🕂identity crafting.</li>
 </ul>
