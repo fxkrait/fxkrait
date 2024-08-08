@@ -48,7 +48,7 @@
 
 
 <td valign="bottom">
-<p><code>🚶‍♂️ Walk, even as the flesh is burning - that's when things matter most. Down bad = Game time. ❤️‍🔥</code></p>
+<p><code>🚶‍♂️ Walk, even as the flesh is burning - that's when things matter most. Down bad = Game time ❤️‍🔥</code></p>
 <div>
 <img src="https://raw.githubusercontent.com/fxkrait/fxkrait/main/img/lilSlugger.gif" width="40" align="right">
 <img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="left">
