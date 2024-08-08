@@ -48,7 +48,7 @@
 
 
 <td valign="bottom">
-<p><code>🚶‍♂️ Traini while the flesh is burning. It's when things matter the most. Make tragedy your specialty ❤️‍🔥.</code></p>
+<p><code>🚶‍♂️ Train while the flesh is burning. It's when things matter the most. Make tragedy your specialty ❤️‍🔥.</code></p>
 <div>
 <img src="https://raw.githubusercontent.com/fxkrait/fxkrait/main/img/lilSlugger.gif" width="40" align="right">
 <img src="img/fifthXeniaColoredTextWithLogo.svg" width="125" align="left">
