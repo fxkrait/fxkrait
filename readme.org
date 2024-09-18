@@ -14,7 +14,7 @@
 #+begin_html
 <b><code>$ whoami:</code></b>
 <ul>
-<li>A <a href="https://www.merriam-webster.com/thesaurus/skirr">skirr</a>er 💨 Venturing to the beyond 🌄, with computers protecting humanities 6️⃣.</li>
+<li>A <a href="https://www.merriam-webster.com/thesaurus/skirr">skirr</a>er 💨 Venturing to the beyond 🌄, as computational systems protect humanities 6️⃣.</li>
 <ul>
 <li>🏗️ <a href="https://piletexod.us">piletexod.us</a> (202X): proof-of-work🕂individuated questing🕂identity crafting.</li>
 </ul>
