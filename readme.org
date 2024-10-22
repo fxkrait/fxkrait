@@ -31,7 +31,7 @@
 <tr style="padding: 0">
 
 <td valign="bottom">
-<video controls preload="none" src="https://github.com/user-attachments/assets/77ffa904-503d-4b3c-8133-92b70e29b08d" /></td>
+<video controls preload="none" src="https://github.com/user-attachments/assets/ca7a7350-7d22-44f6-8af9-6eecfbb1f5f7" /></td>
 
 <td valign="bottom">
 <video controls preload="none" src="https://github.com/user-attachments/assets/d0f317f6-1354-4109-8575-dc9e5d82551f" /></td>
