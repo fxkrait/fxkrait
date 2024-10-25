@@ -13,6 +13,9 @@
 > [!CAUTION]
 > Caution
 
+[Music+Educate.webm](https://github.com/user-attachments/assets/fc9adcce-4c2b-42af-9e1c-3fdf328c162e)
+
+
 
 [Music+Read.webm](https://github.com/user-attachments/assets/dd8ec34d-a179-4c6e-9944-3fb9eea65307)
 
