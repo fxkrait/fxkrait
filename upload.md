@@ -13,6 +13,10 @@
 > [!CAUTION]
 > Caution
 
+
+[Music+Knowledge.webm](https://github.com/user-attachments/assets/9f725ca3-da94-448e-82bf-acbf34e94092)
+
+
 [Music+Educate.webm](https://github.com/user-attachments/assets/fc9adcce-4c2b-42af-9e1c-3fdf328c162e)
 
 
