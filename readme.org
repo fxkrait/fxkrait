@@ -8,7 +8,7 @@
 
 
 #+begin_html
-<img src="img/illuminating-3.png" width="250" align="right">
+<img src="img/illuminating-4.png" width="250" align="right">
 #+end_html
 
 #+begin_html
