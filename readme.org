@@ -37,6 +37,9 @@
 </tr>
 </table>
 
+<blockquote>I will not be pushed, filestamped, indexed, briefed, debriefed, or numbered. My life, is my own.</blockquote>
+
+
 #+end_html
 
 
