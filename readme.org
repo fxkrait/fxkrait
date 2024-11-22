@@ -37,7 +37,7 @@
 </tr>
 </table>
 
-<blockquote>🏕️ I will not be coerced, indoctrinated, briefed, debriefed, nor walk in briefs 🩲. This life, is my own. Many things, I discard 🗑️</blockquote>
+<blockquote>🏕️ I will not be coerced, indoctrinated, briefed, debriefed, nor walk in briefs 🩲. This life, is my own. Many things I discard 🗑️</blockquote>
 
 
 #+end_html
