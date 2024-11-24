@@ -36,13 +36,7 @@
 </ul></td>
 </tr>
 </table>
-
-<blockquote>🏕️ I will not be coerced, indoctrinated, briefed, debriefed, nor walk in briefs 🩲. This life is my own. Many things I discard 🗑️</blockquote>
-<blockquote>🗺️ The plan: liberty wins, slavery loses. When slavery propagates, retreat. Don't enter into the gulags of the current day. See that they violate natural law, and flee from them. When slavery retreats, propagate liberty out from the bones and ashes 🌱.</blockquote>
-<blockquote>🕊️ It is the duty of thinking peoples, not to be on the side of executioners. You may think you run violence, but it runs you.</blockquote>
-
 #+end_html
-
 
 #+begin_quote
 [!IMPORTANT]
@@ -52,5 +46,3 @@
 
 🕊️ It is the duty of thinking peoples, not to be on the side of executioners. You may think you run violence, but it runs you.
 #+end_quote
-
-
