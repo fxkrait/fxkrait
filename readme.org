@@ -53,7 +53,7 @@
 
 #+begin_html
 
-<blockquote><a href="https://en.wikipedia.org/wiki/Propaganda:_The_Formation_of_Men%27s_Attitudes">Propaganda</a> cannot be satisfied with partial successes, as it does not tolerate discussion. Its very nature excludes contradiction and discussion. As long as a noticable, or expressed tension, or conflict of action remains, propaganda cannot be said to have accomplished its aim. It must produce quasi unanimity, and the opposing faction must become neglible, or in any case, cease to be vocal.</blockquote>
+<blockquote><a href="https://en.wikipedia.org/wiki/Propaganda:_The_Formation_of_Men%27s_Attitudes">Propaganda</a> cannot be satisfied with partial success, for it does not tolerate discussion. Its very nature excludes contradiction and discussion. As long as a noticable, or expressed tension, or conflict of action remains, propaganda cannot be said to have accomplished its aim. It must produce quasi unanimity, and the opposing faction must become neglible, or in any case, cease to be vocal.</blockquote>
 
 #+end_html
 
