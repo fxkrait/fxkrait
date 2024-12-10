@@ -55,7 +55,7 @@
 
 <blockquote><a href="https://en.wikipedia.org/wiki/Propaganda:_The_Formation_of_Men%27s_Attitudes">Propaganda</a> is never satisfied with partial success, as it does not tolerate discussion. Its very nature excludes contradiction and discussion. As long as a noticable, or expressed tension, or conflict of action remains, propaganda cannot be said to have accomplished its aim. It must produce quasi unanimity, and opposing factions must be neglible, or cease to be vocal.</blockquote>
 <ul>
-<li>🪽 The most important, and spirited, of all words, is: 🚫 "no" 🚫. Gaze at thy hand 👋, and enlighten thy middle way 🖕.</li>
+<li>🪽 The most important, and spirited, of all words, is: 🚫 "no" 🚫. Gaze at thy hand 👋, and enlighten to thy middle way 🖕.</li>
 </ul>
 
 #+end_html
