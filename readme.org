@@ -60,7 +60,8 @@
 <li>🪽 The most important, and spirited, of all words, is: 🚫 "no" 🚫. Gaze at thy hand 👋, and enlighten to thy middle way 🖕.</li>
 </ul>
 
+<div align="center">
 <img src="img/libreArchony.png" width="600" align="center">
-
+</div>
 #+end_html
 
