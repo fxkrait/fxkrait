@@ -44,15 +44,11 @@
 #+begin_quote
 [!IMPORTANT]
 💄 Lipstick upon slavery, will always be unattractive. Do not enter any gulags. See that they violate natural law, and flee. Propagate liberty. Be peaceful, but not a pacifist. Respect freedom, enough to defend it. Extend morality to our actions.
+
+🪽 The most important, and spirited, of all words, is: 🚫 "no" 🚫. Gaze at thy hand 👋, and enlighten to thy middle way 🖕.
 #+end_quote
 
-
 #+begin_html
-
-<ul>
-<li>🪽 The most important, and spirited, of all words, is: 🚫 "no" 🚫. Gaze at thy hand 👋, and enlighten to thy middle way 🖕.</li>
-</ul>
-
 <div align="center">
 <img src="img/libreArchony.png" width="400" align="center">
 </div>
