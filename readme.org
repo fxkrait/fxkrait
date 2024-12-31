@@ -48,6 +48,9 @@
 text [Duck Duck Go](https://duckduckgo.com)
 
 
+test [[https://duckduckgo.com][uo]]
+
+
 Do not be a naive coincidence theorist. Actually take the time and effort to <a href="https://piped.kavin.rocks/playlist?list=PLnzMmEt4pIb83lZgEA3nALsDM1QogyvC0">investigate</a> the connecting nature between the powers of this world, and the nature of evil. The only true divide is in right vs wrong, and in understanding true morality.
 
 🪽 The most important, and spirited, of all words, is: 🚫 "no" 🚫. Gaze at thy hand 👋, and enlighten to thy middle way 🖕.
@@ -58,4 +61,5 @@ Do not be a naive coincidence theorist. Actually take the time and effort to <a 
 <img src="img/libreArchony.png" width="400" align="center">
 </div>
 #+end_html
+
 
