@@ -71,7 +71,7 @@
 
 #+begin_html
 <div align="center">
-<img src="img/libreArchony.png" width="400" align="center">
+<img src="img/libreArchony2.png" width="400" align="center">
 <img src="img/theAlgebraOfHierarchy.svg" width="200" align="center">
 </div>
 #+end_html
