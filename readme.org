@@ -67,8 +67,6 @@
 <br>
 #+end_html
 
------------------
-
 #+begin_html
 <div align="center">
 <img src="img/libreArchony3.png" width="400" align="center">
