@@ -57,7 +57,7 @@
 
 #+begin_html
 <div>
-<code>Regarding those without a name 🫆, but of they/them account 🎭, who run rampant 🦉:</code>
+<code>Regarding those of no name 🫆, of they/them account 🎭, who run rampant 🦉:</code>
 <br>
 <img src="img/cremationOfCare2.jpg" width="200" align="right">
 <ul>
