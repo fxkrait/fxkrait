@@ -48,8 +48,8 @@ Overcome the Greek tragedy, by making decisions within it - there is no transcen
 
 #+begin_html
 <div align="center">
-<img src="img/piletexodusLogo.webp" width="150" align="center">
-<img src="img/libreArchony3.png" width="300" align="center">
 <img src="img/theAlgebraOfHierarchy.svg" width="150" align="center">
+<img src="img/libreArchony3.png" width="300" align="center">
+<img src="img/piletexodusLogo.webp" width="150" align="center">
 </div>
 #+end_html
